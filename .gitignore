@@ -1,0 +1,13 @@
+# CMake build directory
+build/
+
+# Executables
+yo
+test_solve
+
+# I/O files (local testing)
+output.txt
+
+# Editor swap files
+*.swp
+.yo.cpp.swp
