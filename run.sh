@@ -23,18 +23,18 @@ fi
 # Ensure input.txt and output.txt exist in the root directory
 touch input.txt output.txt
 
-# Create build directory and compile
 mkdir -p build
-cd build
 
-# Force cmake configuration to capture any newly created C++ files
-cmake .. > /dev/null
-
-# Compile only the requested target
-make "$TARGET"
-
-# Return to workspace root to run the binary (so freopen paths input.txt/output.txt are correct)
-cd ..
+# Prefer cmake when available; otherwise compile directly with g++
+if command -v cmake >/dev/null 2>&1; then
+    cd build
+    cmake .. > /dev/null
+    make "$TARGET"
+    cd ..
+else
+    echo "cmake not found; compiling with g++..."
+    g++ -std=c++17 -O2 -Wall -Wextra "$TARGET.cpp" -o "build/$TARGET"
+fi
 
 echo -e "\n================ Running $TARGET ================"
 # Run the executable and measure time
@@ -59,7 +59,7 @@ printf "Execution Time: %.3f seconds\n" "$DURATION"
 if [ -s output.txt ]; then
     echo -e "\n--- Output Preview (First 20 lines of output.txt) ---"
     head -n 20 output.txt
-    
+
     # If the output is long, let the user know
     LINE_COUNT=$(wc -l < output.txt)
     if [ "$LINE_COUNT" -gt 20 ]; then

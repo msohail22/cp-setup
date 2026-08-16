@@ -1,33 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Fast Input/Output
+#define ll long long
+
 void fast_io() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 }
 
+int gcd(int n, int k) {
+  int ans = INT_MIN;
+  for (int i = 0; i <= n; i++) {
+    if (n % i == 0 && k % i == 0) {
+      ans = max(ans, i);
+    }
+  }
+  return ans;
+}
 void solve() {
-    // Write your solution here
-    
+    ll n, k;
+    cin >> n >> k;
+    cout << "GCD: " << gcd(n, k) << "\n"; 
 }
 
 int main() {
     fast_io();
 
 #ifndef ONLINE_JUDGE
-    // Redirect stdin and stdout to files for local testing
-    // Using (void)! to avoid compiler warnings about unused return values
     (void)!freopen("input.txt", "r", stdin);
     (void)!freopen("output.txt", "w", stdout);
 #endif
 
     int t = 1;
-    // Safely check if t was successfully read before starting the loop
-    if (cin >> t) {
-        while (t--) {
-            solve();
-        }
+    while(t--) {
+      solve();
     }
     return 0;
 }
