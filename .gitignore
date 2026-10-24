@@ -1,13 +1,11 @@
-# CMake build directory
-build/
-
-# Executables
+# Compiled binaries
 yo
-test_solve
+*.out
 
-# I/O files (local testing)
-output.txt
+# Testcases competitest writes next to the source
+*_input*.txt
+*_output*.txt
+*.testcases
 
 # Editor swap files
 *.swp
-.yo.cpp.swp
