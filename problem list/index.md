@@ -1,20 +1,19 @@
 # Problem list — index
 
-One file per topic. Each file is a ladder: easy at the top, hard at the bottom.
-Work top to bottom. Tick the box when the problem is accepted.
+Each ladder runs easy at the top to hard at the bottom. Work top to bottom.
+Tick the box when the problem is accepted.
 
 Sources used: Codeforces, CSES, Kattis, LeetCode. Nothing else.
 
-Each topic has up to two files:
+One folder per topic. Inside it, up to two files:
 
 - **the ladder** — curated, ordered, ~100 problems. This is the one you work.
 - **the backstop** — every problem the site tags for that topic, by rating band.
   Use it when a band still feels slow and you want more reps in that band.
 
-| Topic | File | Problems | Status |
+| Topic | Ladder | Backstop | Status |
 |---|---|---|---|
-| Modulo / modular arithmetic | [modular-arithmetic.md](modular-arithmetic.md) | 100 | in progress |
-| Modulo — full Codeforces backstop | [modular-arithmetic-full.md](modular-arithmetic-full.md) | 1639 | reference |
+| Modulo / modular arithmetic | [100 problems](modular%20arithmetic/modular-arithmetic.md) | [1639 problems](modular%20arithmetic/modular-arithmetic-full.md) | in progress |
 
 ## Topics to add later
 
