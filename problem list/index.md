@@ -3,17 +3,28 @@
 Each ladder runs easy at the top to hard at the bottom. Work top to bottom.
 Tick the box when the problem is accepted.
 
-Sources used: Codeforces, CSES, Kattis, LeetCode. Nothing else.
+One folder per topic. Inside it:
 
-One folder per topic. Inside it, up to two files:
+- **the ladder** — the file you work. It opens with a warm-up block, then the
+  **core set** (marked with ★, 10 to 25 problems: the dose that actually builds
+  the muscle), then **more practice** split into easy, medium and hard.
+- **the backstop** — every problem the judge tags for that topic, by rating
+  band. Only exists where a usable tag exists.
 
-- **the ladder** — curated, ordered, ~100 problems. This is the one you work.
-- **the backstop** — every problem the site tags for that topic, by rating band.
-  Use it when a band still feels slow and you want more reps in that band.
+Why the core set is marked, and why the order is what it is:
+[review-fable.md](review-fable.md).
+
+Run mixed practice alongside this: two virtual Div2 contests a week, plus
+untagged problems at your rating. The topic files build the tools. Mixed
+practice teaches you to pick one without being told which.
+
+Sources: Codeforces, CSES, Kattis, LeetCode, AtCoder, Codeforces EDU,
+USACO Guide.
 
 | Topic | Ladder | Backstop | Status |
 |---|---|---|---|
-| Modulo / modular arithmetic | [100 problems](modular%20arithmetic/modular-arithmetic.md) | [1639 problems](modular%20arithmetic/modular-arithmetic-full.md) | in progress |
+| Modulo / modular arithmetic | [100 problems, 17 ★](modular%20arithmetic/modular-arithmetic.md) | [1639 problems](modular%20arithmetic/modular-arithmetic-full.md) | ready |
+| Stacks and monotonic stack | [60 problems, 15 ★](stacks/stacks.md) | [225 problems](stacks/stacks-full.md) | ready |
 
 ## Topics to add later
 

@@ -54,32 +54,39 @@ fits in `long long`. Use `long long` for every multiply.
 
 ---
 
+## The core set
+
+The rows marked ★ are the core set: 17 problems, one per mechanism. Solve those
+unaided and you own the topic. Everything else in this file is there for more
+reps when a block still feels slow — see
+[../review-fable.md](../review-fable.md).
+
 ## Block 1 — the remainder itself (warm-up)
 
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
-| 1 | [ ] [Weird Algorithm](https://cses.fi/problemset/task/1068) | CSES | easy | `n%2` and overflow |
+| 1 | [ ] ★ [Weird Algorithm](https://cses.fi/problemset/task/1068) | CSES | easy | `n%2` and overflow |
 | 2 | [ ] [Modulo](https://open.kattis.com/problems/modulo) | Kattis | 1.5 | count distinct remainders |
 | 3 | [ ] [Number Spiral](https://cses.fi/problemset/task/1071) | CSES | easy | parity cases |
 | 4 | [ ] [Coin Piles](https://cses.fi/problemset/task/1754) | CSES | easy | divisibility by 3 |
-| 5 | [ ] [Trailing Zeros](https://cses.fi/problemset/task/1618) | CSES | easy | count factors of 5 |
+| 5 | [ ] ★ [Trailing Zeros](https://cses.fi/problemset/task/1618) | CSES | easy | count factors of 5 |
 | 6 | [ ] [Zero Sum](https://codeforces.com/problemset/problem/2247/A) | CF 2247A | 800 | |
 | 7 | [ ] [The Best Card](https://codeforces.com/problemset/problem/2253/A) | CF 2253A | 800 | |
 | 8 | [ ] [Minus Two](https://codeforces.com/problemset/problem/2259/B) | CF 2259B | 800 | |
 | 9 | [ ] [Divide and Conquer](https://codeforces.com/problemset/problem/2241/A) | CF 2241A | 800 | |
 | 10 | [ ] [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | LC 1015 | medium | remainder cycle |
-| 11 | [ ] [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | LC 2575 | medium | running mod |
+| 11 | [ ] ★ [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | LC 2575 | medium | running mod |
 | 12 | [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | LC 166 | medium | remainder repeats |
 
 ## Block 2 — prefix remainders and counting pairs
 
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
-| 13 | [ ] [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | LC 974 | medium | prefix mod + map |
+| 13 | [ ] ★ [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | LC 974 | medium | prefix mod + map |
 | 14 | [ ] [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | LC 523 | medium | |
 | 15 | [ ] [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | LC 1590 | medium | |
 | 16 | [ ] [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | LC 2183 | hard | gcd + divisors |
-| 17 | [ ] [Divisible Subsequences](https://open.kattis.com/problems/divisible) | Kattis | 3.5 | prefix mod, the classic |
+| 17 | [ ] ★ [Divisible Subsequences](https://open.kattis.com/problems/divisible) | Kattis | 3.5 | prefix mod, the classic |
 | 18 | [ ] [Remainder Reminder](https://open.kattis.com/problems/remainderreminder) | Kattis | 4.0 | count pairs by remainder |
 | 19 | [ ] [Subarrays](https://codeforces.com/problemset/problem/2276/C) | CF 2276C | 1100 | |
 | 20 | [ ] [Everything Everywhere](https://codeforces.com/problemset/problem/2226/B) | CF 2226B | 900 | |
@@ -92,13 +99,13 @@ fits in `long long`. Use `long long` for every multiply.
 
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
-| 25 | [ ] [Exponentiation](https://cses.fi/problemset/task/1095) | CSES | easy | write `pw` once, keep it |
+| 25 | [ ] ★ [Exponentiation](https://cses.fi/problemset/task/1095) | CSES | easy | write `pw` once, keep it |
 | 26 | [ ] [Binary Exponentiation](https://open.kattis.com/problems/binaryexponentiation) | Kattis | 2.0 | same thing |
 | 27 | [ ] [Exponentiation](https://open.kattis.com/problems/exponentiation) | Kattis | 3.0 | |
 | 28 | [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) | LC 50 | medium | floating version |
-| 29 | [ ] [Super Pow](https://leetcode.com/problems/super-pow/) | LC 372 | medium | huge exponent as array, mod 1337 |
+| 29 | [ ] ★ [Super Pow](https://leetcode.com/problems/super-pow/) | LC 372 | medium | huge exponent as array, mod 1337 |
 | 30 | [ ] [Modular Exponentiation](https://codeforces.com/problemset/problem/913/A) | CF 913A | 1000 | |
-| 31 | [ ] [Exponentiation II](https://cses.fi/problemset/task/1712) | CSES | medium | tower `a^b^c`, needs Fermat on the exponent |
+| 31 | [ ] ★ [Exponentiation II](https://cses.fi/problemset/task/1712) | CSES | medium | tower `a^b^c`, needs Fermat on the exponent |
 | 32 | [ ] [Exponents](https://open.kattis.com/problems/exponents) | Kattis | 4.5 | |
 | 33 | [ ] [Associative Exponents](https://open.kattis.com/problems/associativeexponents) | Kattis | 5.0 | |
 | 34 | [ ] [Exponial](https://open.kattis.com/problems/exponial) | Kattis | 5.3 | `n^(n-1)^...` mod m |
@@ -109,13 +116,13 @@ fits in `long long`. Use `long long` for every multiply.
 
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
-| 37 | [ ] [Modular Arithmetic](https://open.kattis.com/problems/modulararithmetic) | Kattis | 3.4 | +, -, *, / mod n by hand |
-| 38 | [ ] [Binomial Coefficients](https://cses.fi/problemset/task/1079) | CSES | medium | factorials + inverse factorials |
+| 37 | [ ] ★ [Modular Arithmetic](https://open.kattis.com/problems/modulararithmetic) | Kattis | 3.4 | +, -, *, / mod n by hand |
+| 38 | [ ] ★ [Binomial Coefficients](https://cses.fi/problemset/task/1079) | CSES | medium | factorials + inverse factorials |
 | 39 | [ ] [Divisor Analysis](https://cses.fi/problemset/task/2182) | CSES | medium | product of divisors; inverse of 2 |
 | 40 | [ ] [Multipliers](https://codeforces.com/problemset/problem/615/D) | CF 615D | 2200 | product of divisors, Fermat on exponent |
 | 41 | [ ] [Modular Reverse Engineering](https://open.kattis.com/problems/modularreverseengineering) | Kattis | 5.5 | |
 | 42 | [ ] [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | LC 1735 | hard | stars and bars + inverse factorial |
-| 43 | [ ] [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | LC 2400 | medium | one binomial mod |
+| 43 | [ ] ★ [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | LC 2400 | medium | one binomial mod |
 | 44 | [ ] [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | LC 1573 | medium | gaps multiply mod |
 | 45 | [ ] [Odd Binomial Coefficients](https://open.kattis.com/problems/oddbinom) | Kattis | 4.8 | Lucas mod 2 |
 | 46 | [ ] [A Totient Quotient](https://open.kattis.com/problems/atotientquotient) | Kattis | 6.5 | Euler phi |
@@ -125,9 +132,9 @@ fits in `long long`. Use `long long` for every multiply.
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
 | 47 | [ ] [Creating Strings II](https://cses.fi/problemset/task/1715) | CSES | medium | multinomial |
-| 48 | [ ] [Distributing Apples](https://cses.fi/problemset/task/1716) | CSES | medium | stars and bars |
+| 48 | [ ] ★ [Distributing Apples](https://cses.fi/problemset/task/1716) | CSES | medium | stars and bars |
 | 49 | [ ] [Christmas Party](https://cses.fi/problemset/task/1717) | CSES | medium | derangements |
-| 50 | [ ] [Bracket Sequences I](https://cses.fi/problemset/task/2064) | CSES | medium | Catalan |
+| 50 | [ ] ★ [Bracket Sequences I](https://cses.fi/problemset/task/2064) | CSES | medium | Catalan |
 | 51 | [ ] [Bracket Sequences II](https://cses.fi/problemset/task/2187) | CSES | hard | Catalan with a prefix fixed |
 | 52 | [ ] [Counting Necklaces](https://cses.fi/problemset/task/2209) | CSES | hard | Burnside + inverse |
 | 53 | [ ] [Counting Grids](https://cses.fi/problemset/task/2210) | CSES | hard | Burnside again |
@@ -145,7 +152,7 @@ fits in `long long`. Use `long long` for every multiply.
 
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
-| 63 | [ ] [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | LC 1155 | medium | |
+| 63 | [ ] ★ [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | LC 1155 | medium | |
 | 64 | [ ] [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | LC 1269 | hard | |
 | 65 | [ ] [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | LC 935 | medium | |
 | 66 | [ ] [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | LC 790 | medium | |
@@ -162,7 +169,7 @@ fits in `long long`. Use `long long` for every multiply.
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
 | 74 | [ ] [Josephus Queries](https://cses.fi/problemset/task/2164) | CSES | medium | recurrence on remainders |
-| 75 | [ ] [Chinese Remainder](https://open.kattis.com/problems/chineseremainder) | Kattis | 5.0 | coprime moduli |
+| 75 | [ ] ★ [Chinese Remainder](https://open.kattis.com/problems/chineseremainder) | Kattis | 5.0 | coprime moduli |
 | 76 | [ ] [Chinese Remainder Theorem (non-relatively prime moduli)](https://open.kattis.com/problems/generalchineseremainder) | Kattis | 6.0 | the general case |
 | 77 | [ ] [Envious Exponents](https://open.kattis.com/problems/enviousexponents) | Kattis | 4.0 | |
 | 78 | [ ] [Exponent Exchange](https://open.kattis.com/problems/exponentexchange) | Kattis | 5.0 | |
@@ -178,9 +185,9 @@ fits in `long long`. Use `long long` for every multiply.
 
 | # | Problem | Source | Level | Notes |
 |---|---|---|---|---|
-| 86 | [ ] [Fibonacci Numbers](https://cses.fi/problemset/task/1722) | CSES | medium | 2x2 matrix power |
+| 86 | [ ] ★ [Fibonacci Numbers](https://cses.fi/problemset/task/1722) | CSES | medium | 2x2 matrix power |
 | 87 | [ ] [Throwing Dice](https://cses.fi/problemset/task/1096) | CSES | medium | 6x6 matrix power |
-| 88 | [ ] [Graph Paths I](https://cses.fi/problemset/task/1723) | CSES | medium | adjacency matrix power |
+| 88 | [ ] ★ [Graph Paths I](https://cses.fi/problemset/task/1723) | CSES | medium | adjacency matrix power |
 | 89 | [ ] [Graph Paths II](https://cses.fi/problemset/task/1724) | CSES | hard | min-plus, no mod but same shape |
 | 90 | [ ] [System of Linear Equations](https://cses.fi/problemset/task/3154) | CSES | hard | Gauss mod 2 |
 
