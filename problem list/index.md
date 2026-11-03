@@ -1,41 +1,94 @@
-# Problem list — index
+# Problem list
 
-Each ladder runs easy at the top to hard at the bottom. Work top to bottom.
-Tick the box when the problem is accepted.
+## What this is
 
-One folder per topic. Inside it:
+A list of topics. One folder for each topic. Two files in each folder.
 
-- **the ladder** — the file you work. It opens with a warm-up block, then the
-  **core set** (marked with ★, 10 to 25 problems: the dose that actually builds
-  the muscle), then **more practice** split into easy, medium and hard.
-- **the backstop** — every problem the judge tags for that topic, by rating
-  band. Only exists where a usable tag exists.
+You solve problems from one topic until the pattern is automatic. Then you go to
+the next topic.
 
-Why the core set is marked, and why the order is what it is:
-[review-fable.md](review-fable.md).
+## The two files
 
-Run mixed practice alongside this: two virtual Div2 contests a week, plus
-untagged problems at your rating. The topic files build the tools. Mixed
-practice teaches you to pick one without being told which.
+| File | What it holds | How many |
+|---|---|---|
+| `understand.md` | The problems you must solve. One problem for each idea in the topic. | 40 to 70 |
+| `crazy.md` | Every problem found for the topic. Extra repetitions. | 200 to 4000 |
 
-Sources: Codeforces, CSES, Kattis, LeetCode, AtCoder, Codeforces EDU,
-USACO Guide.
+Solve `understand.md` first. Solve all of it. Go to `crazy.md` only if the topic
+is still slow.
 
-| Topic | Ladder | Backstop | Status |
+## Rules for the files
+
+1. Put only links in the file. Write no other text.
+2. Use three headings: `## Easy`, `## Medium`, `## Hard`.
+3. Write each link as a list item.
+4. Sort the links from easy to hard inside each heading.
+5. Test that each link works. Remove a link that fails.
+6. Make each link from the judge's own data. Do not guess a link.
+
+## How to build a topic folder
+
+1. Choose the next topic from the list below.
+2. Get the problems from each source. Use the queries in the next section.
+3. Classify the problems. Use the judge's tag if a tag exists.
+4. Read the problem statement if no tag exists. Read the editorial also. Then
+   decide if the problem belongs to the topic.
+5. Give each problem one level: easy, medium or hard.
+6. Write `understand.md`. Put one problem for each idea in the topic. Start
+   with the most simple idea.
+7. Write `crazy.md`. Put every problem found.
+8. Add the folder link to the topic list below.
+
+## Sources
+
+| Source | How to get the problems | How exact |
+|---|---|---|
+| Codeforces | `problemset.problems?tags=<tag>` from the API | Exact for a tag that exists. No tag exists for about 16 topics. |
+| LeetCode | `topicTag(slug:"<slug>")` from the GraphQL API | Exact. The tags are real. |
+| CSES | Read the section from the problem set page | Exact. The set holds 300 problems only. |
+| Kattis | `search?q=<word>`, or read the catalogue pages | Rough. No tags exist. |
+| AtCoder | The contest task pages | Exact. Needs `atcoder.jp` in the allowed domains. |
+
+Rules for the sources:
+
+- Codeforces gives about 70 percent of each file. It has ratings and editorials.
+- Spend CSES problems with care. There are 300 and no more.
+- Kattis is the only source with ICPC-style problems.
+- Keep LeetCode in the easy section. It gives no input parsing and loose time
+  limits.
+
+## Limits to respect
+
+1. Make a small number of requests. A judge stops a client that is too fast.
+2. Wait 4 seconds between requests to Codeforces.
+3. Do not read the code of another person's submission. Codeforces blocks it.
+4. Ask before you start a large download.
+
+## Levels
+
+| Level | Codeforces | LeetCode | Kattis |
 |---|---|---|---|
-| Modulo / modular arithmetic | [100 problems, 17 ★](modular%20arithmetic/modular-arithmetic.md) | [1639 problems](modular%20arithmetic/modular-arithmetic-full.md) | ready |
-| Stacks and monotonic stack | [60 problems, 15 ★](stacks/stacks.md) | [225 problems](stacks/stacks-full.md) | ready |
+| Easy | 800 to 1200 | Easy | 1.0 to 1.8 |
+| Medium | 1300 to 1900 | Medium | 1.9 to 2.5 |
+| Hard | 2000 and more | Hard | 2.6 and more |
+
+## Also do mixed practice
+
+The topic files teach you the tools. They do not teach you to choose a tool.
+
+Do two virtual Division 2 contests each week. Solve problems that show no tag.
+A contest gives you no topic name, so this is the part that moves your rating.
 
 ## Topics
 
-Atomic: one technique per topic, one folder per topic. Tier 1 is everything that
-appears at or below about rating 2200. Tier 2 starts appearing above it.
+One technique for each topic. Tier 1 holds the techniques at rating 2200 and
+below. Tier 2 holds the techniques above it.
 
-Work Tier 1 in order. Open Tier 2 only when you are rated past about 1900.
+Work Tier 1 in order. Open Tier 2 when your rating passes 1900.
 
 ### Tier 1
 
-1. Implementation and simulation
+1. [Implementation and simulation](implementation/) — done
 2. Integer overflow and types
 3. Arrays
 4. Sorting
@@ -196,10 +249,3 @@ Work Tier 1 in order. Open Tier 2 only when you are rated past about 1900.
 156. Bitset BFS
 157. Nim variants
 158. Hackenbush
-
-## How to use a topic file
-
-1. Start at the first unticked box.
-2. Give yourself 20 minutes. If nothing comes, read the editorial, then re-solve it from scratch the next day.
-3. Write the date you solved it in the Notes column.
-4. Repeat a whole block when the pattern still feels slow.
