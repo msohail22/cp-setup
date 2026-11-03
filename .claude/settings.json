@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "permissions": {
+    "allow": [
+      "Bash(xh:*)",
+      "Bash(curl:*)",
+      "Bash(jq:*)"
+    ]
+  },
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "codeforces.com",
+        "*.codeforces.com",
+        "open.kattis.com",
+        "cses.fi",
+        "leetcode.com"
+      ]
+    }
+  }
+}
