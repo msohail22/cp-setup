@@ -9,3 +9,7 @@ yo
 
 # Editor swap files
 *.swp
+
+# Compiled CP solutions (no extension, same name as the .cpp)
+A. *
+!A. *.cpp
