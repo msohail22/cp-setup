@@ -1,0 +1,29 @@
+## Easy
+- https://leetcode.com/problems/nim-game/
+- https://leetcode.com/problems/divisor-game/
+- https://open.kattis.com/problems/minimumscalar
+- https://open.kattis.com/problems/snim
+
+## Medium
+- https://leetcode.com/problems/stone-game/
+- https://leetcode.com/problems/stone-game-ix/
+- https://leetcode.com/problems/vowels-game-in-a-string/
+- https://cses.fi/problemset/task/1729
+- https://cses.fi/problemset/task/1098
+- https://codeforces.com/problemset/problem/1968/D
+- https://codeforces.com/problemset/problem/570/B
+- https://codeforces.com/problemset/problem/2236/D
+- https://codeforces.com/problemset/problem/2239/A
+- https://codeforces.com/problemset/problem/1931/E
+- https://codeforces.com/problemset/problem/1370/C
+- https://codeforces.com/problemset/problem/1929/C
+- https://codeforces.com/problemset/problem/1965/A
+- https://codeforces.com/problemset/problem/150/A
+- https://codeforces.com/problemset/problem/120/E
+- https://open.kattis.com/problems/justaminim
+- https://open.kattis.com/problems/nimionese
+- https://open.kattis.com/problems/mincut
+- https://open.kattis.com/problems/minspantree
+
+## Hard
+- https://leetcode.com/problems/chalkboard-xor-game/

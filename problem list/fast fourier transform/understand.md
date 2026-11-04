@@ -1,0 +1,31 @@
+## Easy
+- https://codeforces.com/problemset/problem/2203/B
+
+## Medium
+- https://codeforces.com/problemset/problem/2072/F
+- https://codeforces.com/problemset/problem/1119/E
+- https://codeforces.com/problemset/problem/1909/I
+
+## Hard
+- https://cses.fi/problemset/task/1664
+- https://codeforces.com/problemset/problem/1438/C
+- https://codeforces.com/problemset/problem/2138/C2
+- https://codeforces.com/problemset/problem/1559/E
+- https://codeforces.com/problemset/problem/2025/E
+- https://codeforces.com/problemset/problem/2253/E
+- https://codeforces.com/problemset/problem/954/I
+- https://codeforces.com/problemset/problem/1342/E
+- https://codeforces.com/problemset/problem/2077/C
+- https://codeforces.com/problemset/problem/2021/E1
+- https://codeforces.com/problemset/problem/993/E
+- https://codeforces.com/problemset/problem/300/D
+- https://codeforces.com/problemset/problem/632/E
+- https://codeforces.com/problemset/problem/1096/G
+- https://codeforces.com/problemset/problem/1036/E
+- https://codeforces.com/problemset/problem/1726/E
+- https://codeforces.com/problemset/problem/1608/D
+- https://codeforces.com/problemset/problem/1542/E1
+- https://codeforces.com/problemset/problem/1218/D
+- https://codeforces.com/problemset/problem/2206/F
+- https://codeforces.com/problemset/problem/528/D
+- https://codeforces.com/problemset/problem/1548/C
