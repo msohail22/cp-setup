@@ -1,122 +1,122 @@
 ## Easy
-- https://leetcode.com/problems/longest-common-prefix/
-- https://leetcode.com/problems/maximum-strong-pair-xor-i/
-- https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
+- [ ] https://leetcode.com/problems/longest-common-prefix/
+- [ ] https://leetcode.com/problems/maximum-strong-pair-xor-i/
+- [ ] https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 
 ## Medium
-- https://leetcode.com/problems/implement-trie-prefix-tree/
-- https://leetcode.com/problems/design-add-and-search-words-data-structure/
-- https://leetcode.com/problems/replace-words/
-- https://leetcode.com/problems/map-sum-pairs/
-- https://leetcode.com/problems/longest-word-in-dictionary/
-- https://leetcode.com/problems/search-suggestions-system/
-- https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
-- https://cses.fi/problemset/task/1624
-- https://cses.fi/problemset/task/1731
-- https://leetcode.com/problems/word-break/
-- https://leetcode.com/problems/lexicographical-numbers/
-- https://leetcode.com/problems/implement-magic-dictionary/
-- https://leetcode.com/problems/top-k-frequent-words/
-- https://leetcode.com/problems/number-of-matching-subsequences/
-- https://leetcode.com/problems/short-encoding-of-words/
-- https://leetcode.com/problems/camelcase-matching/
-- https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
-- https://leetcode.com/problems/k-divisible-elements-subarrays/
-- https://leetcode.com/problems/words-within-two-edits-of-dictionary/
-- https://leetcode.com/problems/extra-characters-in-a-string/
-- https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
-- https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/
-- https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/
-- https://leetcode.com/problems/partition-string/
-- https://codeforces.com/problemset/problem/2008/E
-- https://codeforces.com/problemset/problem/1849/C
-- https://codeforces.com/problemset/problem/1861/C
-- https://codeforces.com/problemset/problem/1714/D
-- https://codeforces.com/problemset/problem/1381/A2
-- https://codeforces.com/problemset/problem/1473/D
-- https://codeforces.com/problemset/problem/797/C
-- https://codeforces.com/problemset/problem/1182/C
-- https://codeforces.com/problemset/problem/827/A
-- https://codeforces.com/problemset/problem/670/E
-- https://codeforces.com/problemset/problem/271/D
-- https://codeforces.com/problemset/problem/1290/B
-- https://codeforces.com/problemset/problem/923/C
-- https://codeforces.com/problemset/problem/2276/E
-- https://codeforces.com/problemset/problem/79/C
-- https://codeforces.com/problemset/problem/5/C
-- https://codeforces.com/problemset/problem/1430/E
-- https://codeforces.com/problemset/problem/1902/E
-- https://codeforces.com/problemset/problem/2111/E
-- https://codeforces.com/problemset/problem/1968/G1
-- https://codeforces.com/problemset/problem/1847/D
-- https://codeforces.com/problemset/problem/2093/G
-- https://codeforces.com/problemset/problem/633/C
-- https://codeforces.com/problemset/problem/722/D
-- https://codeforces.com/problemset/problem/724/D
-- https://codeforces.com/problemset/problem/757/C
-- https://codeforces.com/problemset/problem/223/B
+- [ ] https://leetcode.com/problems/implement-trie-prefix-tree/
+- [ ] https://leetcode.com/problems/design-add-and-search-words-data-structure/
+- [ ] https://leetcode.com/problems/replace-words/
+- [ ] https://leetcode.com/problems/map-sum-pairs/
+- [ ] https://leetcode.com/problems/longest-word-in-dictionary/
+- [ ] https://leetcode.com/problems/search-suggestions-system/
+- [ ] https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+- [ ] https://cses.fi/problemset/task/1624
+- [ ] https://cses.fi/problemset/task/1731
+- [ ] https://leetcode.com/problems/word-break/
+- [ ] https://leetcode.com/problems/lexicographical-numbers/
+- [ ] https://leetcode.com/problems/implement-magic-dictionary/
+- [ ] https://leetcode.com/problems/top-k-frequent-words/
+- [ ] https://leetcode.com/problems/number-of-matching-subsequences/
+- [ ] https://leetcode.com/problems/short-encoding-of-words/
+- [ ] https://leetcode.com/problems/camelcase-matching/
+- [ ] https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+- [ ] https://leetcode.com/problems/k-divisible-elements-subarrays/
+- [ ] https://leetcode.com/problems/words-within-two-edits-of-dictionary/
+- [ ] https://leetcode.com/problems/extra-characters-in-a-string/
+- [ ] https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
+- [ ] https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/
+- [ ] https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/
+- [ ] https://leetcode.com/problems/partition-string/
+- [ ] https://codeforces.com/problemset/problem/2008/E
+- [ ] https://codeforces.com/problemset/problem/1849/C
+- [ ] https://codeforces.com/problemset/problem/1861/C
+- [ ] https://codeforces.com/problemset/problem/1714/D
+- [ ] https://codeforces.com/problemset/problem/1381/A2
+- [ ] https://codeforces.com/problemset/problem/1473/D
+- [ ] https://codeforces.com/problemset/problem/797/C
+- [ ] https://codeforces.com/problemset/problem/1182/C
+- [ ] https://codeforces.com/problemset/problem/827/A
+- [ ] https://codeforces.com/problemset/problem/670/E
+- [ ] https://codeforces.com/problemset/problem/271/D
+- [ ] https://codeforces.com/problemset/problem/1290/B
+- [ ] https://codeforces.com/problemset/problem/923/C
+- [ ] https://codeforces.com/problemset/problem/2276/E
+- [ ] https://codeforces.com/problemset/problem/79/C
+- [ ] https://codeforces.com/problemset/problem/5/C
+- [ ] https://codeforces.com/problemset/problem/1430/E
+- [ ] https://codeforces.com/problemset/problem/1902/E
+- [ ] https://codeforces.com/problemset/problem/2111/E
+- [ ] https://codeforces.com/problemset/problem/1968/G1
+- [ ] https://codeforces.com/problemset/problem/1847/D
+- [ ] https://codeforces.com/problemset/problem/2093/G
+- [ ] https://codeforces.com/problemset/problem/633/C
+- [ ] https://codeforces.com/problemset/problem/722/D
+- [ ] https://codeforces.com/problemset/problem/724/D
+- [ ] https://codeforces.com/problemset/problem/757/C
+- [ ] https://codeforces.com/problemset/problem/223/B
 
 ## Hard
-- https://leetcode.com/problems/word-search-ii/
-- https://leetcode.com/problems/palindrome-pairs/
-- https://leetcode.com/problems/concatenated-words/
-- https://leetcode.com/problems/stream-of-characters/
-- https://leetcode.com/problems/word-break-ii/
-- https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
-- https://leetcode.com/problems/prefix-and-suffix-search/
-- https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
-- https://leetcode.com/problems/distinct-echo-substrings/
-- https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
-- https://leetcode.com/problems/count-pairs-with-xor-in-a-range/
-- https://leetcode.com/problems/maximum-genetic-difference-query/
-- https://leetcode.com/problems/delete-duplicate-folders-in-system/
-- https://leetcode.com/problems/encrypt-and-decrypt-strings/
-- https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
-- https://leetcode.com/problems/maximum-strong-pair-xor-ii/
-- https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
-- https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/
-- https://leetcode.com/problems/longest-common-suffix-queries/
-- https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/
-- https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/
-- https://codeforces.com/problemset/problem/514/C
-- https://codeforces.com/problemset/problem/1416/C
-- https://codeforces.com/problemset/problem/1506/G
-- https://codeforces.com/problemset/problem/113/B
-- https://codeforces.com/problemset/problem/137/E
-- https://codeforces.com/problemset/problem/665/E
-- https://codeforces.com/problemset/problem/1838/D
-- https://codeforces.com/problemset/problem/1204/D2
-- https://codeforces.com/problemset/problem/1771/D
-- https://codeforces.com/problemset/problem/1538/E
-- https://codeforces.com/problemset/problem/1660/F2
-- https://codeforces.com/problemset/problem/1213/F
-- https://codeforces.com/problemset/problem/1864/E
-- https://codeforces.com/problemset/problem/1056/E
-- https://codeforces.com/problemset/problem/1202/C
-- https://codeforces.com/problemset/problem/631/D
-- https://codeforces.com/problemset/problem/899/F
-- https://codeforces.com/problemset/problem/2205/E
-- https://codeforces.com/problemset/problem/827/C
-- https://codeforces.com/problemset/problem/900/E
-- https://codeforces.com/problemset/problem/644/C
-- https://codeforces.com/problemset/problem/1537/E2
-- https://codeforces.com/problemset/problem/1526/D
-- https://codeforces.com/problemset/problem/1898/E
-- https://codeforces.com/problemset/problem/1616/E
-- https://codeforces.com/problemset/problem/1968/G2
-- https://codeforces.com/problemset/problem/979/D
-- https://codeforces.com/problemset/problem/965/E
-- https://codeforces.com/problemset/problem/558/E
-- https://codeforces.com/problemset/problem/1476/E
-- https://codeforces.com/problemset/problem/1980/G
-- https://codeforces.com/problemset/problem/727/E
-- https://codeforces.com/problemset/problem/557/E
-- https://codeforces.com/problemset/problem/2267/F2
-- https://codeforces.com/problemset/problem/2041/I
-- https://codeforces.com/problemset/problem/710/F
-- https://codeforces.com/problemset/problem/1720/D2
-- https://codeforces.com/problemset/problem/1750/E
-- https://codeforces.com/problemset/problem/1777/F
-- https://codeforces.com/problemset/problem/601/D
-- https://codeforces.com/problemset/problem/452/E
-- https://codeforces.com/problemset/problem/1129/C
+- [ ] https://leetcode.com/problems/word-search-ii/
+- [ ] https://leetcode.com/problems/palindrome-pairs/
+- [ ] https://leetcode.com/problems/concatenated-words/
+- [ ] https://leetcode.com/problems/stream-of-characters/
+- [ ] https://leetcode.com/problems/word-break-ii/
+- [ ] https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
+- [ ] https://leetcode.com/problems/prefix-and-suffix-search/
+- [ ] https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+- [ ] https://leetcode.com/problems/distinct-echo-substrings/
+- [ ] https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
+- [ ] https://leetcode.com/problems/count-pairs-with-xor-in-a-range/
+- [ ] https://leetcode.com/problems/maximum-genetic-difference-query/
+- [ ] https://leetcode.com/problems/delete-duplicate-folders-in-system/
+- [ ] https://leetcode.com/problems/encrypt-and-decrypt-strings/
+- [ ] https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
+- [ ] https://leetcode.com/problems/maximum-strong-pair-xor-ii/
+- [ ] https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
+- [ ] https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/
+- [ ] https://leetcode.com/problems/longest-common-suffix-queries/
+- [ ] https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/
+- [ ] https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/
+- [ ] https://codeforces.com/problemset/problem/514/C
+- [ ] https://codeforces.com/problemset/problem/1416/C
+- [ ] https://codeforces.com/problemset/problem/1506/G
+- [ ] https://codeforces.com/problemset/problem/113/B
+- [ ] https://codeforces.com/problemset/problem/137/E
+- [ ] https://codeforces.com/problemset/problem/665/E
+- [ ] https://codeforces.com/problemset/problem/1838/D
+- [ ] https://codeforces.com/problemset/problem/1204/D2
+- [ ] https://codeforces.com/problemset/problem/1771/D
+- [ ] https://codeforces.com/problemset/problem/1538/E
+- [ ] https://codeforces.com/problemset/problem/1660/F2
+- [ ] https://codeforces.com/problemset/problem/1213/F
+- [ ] https://codeforces.com/problemset/problem/1864/E
+- [ ] https://codeforces.com/problemset/problem/1056/E
+- [ ] https://codeforces.com/problemset/problem/1202/C
+- [ ] https://codeforces.com/problemset/problem/631/D
+- [ ] https://codeforces.com/problemset/problem/899/F
+- [ ] https://codeforces.com/problemset/problem/2205/E
+- [ ] https://codeforces.com/problemset/problem/827/C
+- [ ] https://codeforces.com/problemset/problem/900/E
+- [ ] https://codeforces.com/problemset/problem/644/C
+- [ ] https://codeforces.com/problemset/problem/1537/E2
+- [ ] https://codeforces.com/problemset/problem/1526/D
+- [ ] https://codeforces.com/problemset/problem/1898/E
+- [ ] https://codeforces.com/problemset/problem/1616/E
+- [ ] https://codeforces.com/problemset/problem/1968/G2
+- [ ] https://codeforces.com/problemset/problem/979/D
+- [ ] https://codeforces.com/problemset/problem/965/E
+- [ ] https://codeforces.com/problemset/problem/558/E
+- [ ] https://codeforces.com/problemset/problem/1476/E
+- [ ] https://codeforces.com/problemset/problem/1980/G
+- [ ] https://codeforces.com/problemset/problem/727/E
+- [ ] https://codeforces.com/problemset/problem/557/E
+- [ ] https://codeforces.com/problemset/problem/2267/F2
+- [ ] https://codeforces.com/problemset/problem/2041/I
+- [ ] https://codeforces.com/problemset/problem/710/F
+- [ ] https://codeforces.com/problemset/problem/1720/D2
+- [ ] https://codeforces.com/problemset/problem/1750/E
+- [ ] https://codeforces.com/problemset/problem/1777/F
+- [ ] https://codeforces.com/problemset/problem/601/D
+- [ ] https://codeforces.com/problemset/problem/452/E
+- [ ] https://codeforces.com/problemset/problem/1129/C

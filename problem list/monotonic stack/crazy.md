@@ -1,157 +1,157 @@
 ## Easy
-- https://leetcode.com/problems/next-greater-element-i/
-- https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
-- https://leetcode.com/problems/valid-parentheses/
-- https://leetcode.com/problems/binary-tree-inorder-traversal/
-- https://leetcode.com/problems/binary-tree-preorder-traversal/
-- https://leetcode.com/problems/binary-tree-postorder-traversal/
-- https://leetcode.com/problems/implement-stack-using-queues/
-- https://leetcode.com/problems/implement-queue-using-stacks/
-- https://leetcode.com/problems/palindrome-linked-list/
-- https://leetcode.com/problems/n-ary-tree-preorder-traversal/
-- https://leetcode.com/problems/n-ary-tree-postorder-traversal/
-- https://leetcode.com/problems/baseball-game/
-- https://leetcode.com/problems/backspace-string-compare/
-- https://leetcode.com/problems/increasing-order-search-tree/
-- https://leetcode.com/problems/remove-outermost-parentheses/
-- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
-- https://leetcode.com/problems/make-the-string-great/
-- https://leetcode.com/problems/crawler-log-folder/
-- https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
-- https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
-- https://leetcode.com/problems/reverse-prefix-of-word/
-- https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
-- https://leetcode.com/problems/clear-digits/
+- [ ] https://leetcode.com/problems/next-greater-element-i/
+- [ ] https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+- [ ] https://leetcode.com/problems/valid-parentheses/
+- [ ] https://leetcode.com/problems/binary-tree-inorder-traversal/
+- [ ] https://leetcode.com/problems/binary-tree-preorder-traversal/
+- [ ] https://leetcode.com/problems/binary-tree-postorder-traversal/
+- [ ] https://leetcode.com/problems/implement-stack-using-queues/
+- [ ] https://leetcode.com/problems/implement-queue-using-stacks/
+- [ ] https://leetcode.com/problems/palindrome-linked-list/
+- [ ] https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+- [ ] https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+- [ ] https://leetcode.com/problems/baseball-game/
+- [ ] https://leetcode.com/problems/backspace-string-compare/
+- [ ] https://leetcode.com/problems/increasing-order-search-tree/
+- [ ] https://leetcode.com/problems/remove-outermost-parentheses/
+- [ ] https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+- [ ] https://leetcode.com/problems/make-the-string-great/
+- [ ] https://leetcode.com/problems/crawler-log-folder/
+- [ ] https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+- [ ] https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+- [ ] https://leetcode.com/problems/reverse-prefix-of-word/
+- [ ] https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
+- [ ] https://leetcode.com/problems/clear-digits/
 
 ## Medium
-- https://leetcode.com/problems/daily-temperatures/
-- https://leetcode.com/problems/next-greater-element-ii/
-- https://leetcode.com/problems/online-stock-span/
-- https://leetcode.com/problems/remove-duplicate-letters/
-- https://leetcode.com/problems/sum-of-subarray-minimums/
-- https://leetcode.com/problems/car-fleet/
-- https://leetcode.com/problems/sum-of-subarray-ranges/
-- https://leetcode.com/problems/remove-k-digits/
-- https://leetcode.com/problems/132-pattern/
-- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
-- https://leetcode.com/problems/maximum-binary-tree/
-- https://leetcode.com/problems/max-chunks-to-make-sorted/
-- https://leetcode.com/problems/maximum-width-ramp/
-- https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
-- https://leetcode.com/problems/next-greater-node-in-linked-list/
-- https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
-- https://leetcode.com/problems/longest-well-performing-interval/
-- https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
-- https://leetcode.com/problems/count-submatrices-with-all-ones/
-- https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
-- https://leetcode.com/problems/find-the-most-competitive-subsequence/
-- https://leetcode.com/problems/maximum-subarray-min-product/
-- https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
-- https://leetcode.com/problems/steps-to-make-array-non-decreasing/
-- https://leetcode.com/problems/remove-nodes-from-linked-list/
-- https://leetcode.com/problems/beautiful-towers-i/
-- https://leetcode.com/problems/beautiful-towers-ii/
-- https://leetcode.com/problems/make-array-non-decreasing/
-- https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/
-- https://leetcode.com/problems/maximum-balanced-shipments/
-- https://leetcode.com/problems/count-bowl-subarrays/
-- https://leetcode.com/problems/count-robot-groups/
-- https://leetcode.com/problems/count-shadow-pairs-i/
-- https://leetcode.com/problems/simplify-path/
-- https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
-- https://leetcode.com/problems/reorder-list/
-- https://leetcode.com/problems/evaluate-reverse-polish-notation/
-- https://leetcode.com/problems/min-stack/
-- https://leetcode.com/problems/binary-search-tree-iterator/
-- https://leetcode.com/problems/basic-calculator-ii/
-- https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
-- https://leetcode.com/problems/flatten-nested-list-iterator/
-- https://leetcode.com/problems/mini-parser/
-- https://leetcode.com/problems/longest-absolute-file-path/
-- https://leetcode.com/problems/decode-string/
-- https://leetcode.com/problems/add-two-numbers-ii/
-- https://leetcode.com/problems/exclusive-time-of-functions/
-- https://leetcode.com/problems/valid-parenthesis-string/
-- https://leetcode.com/problems/asteroid-collision/
-- https://leetcode.com/problems/score-of-parentheses/
-- https://leetcode.com/problems/decoded-string-at-index/
-- https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
-- https://leetcode.com/problems/validate-stack-sequences/
-- https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
-- https://leetcode.com/problems/clumsy-factorial/
-- https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
-- https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
-- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
-- https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
-- https://leetcode.com/problems/design-a-stack-with-increment-operation/
-- https://leetcode.com/problems/build-an-array-with-stack-operations/
-- https://leetcode.com/problems/design-browser-history/
-- https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
-- https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
-- https://leetcode.com/problems/maximum-score-from-removing-substrings/
-- https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
-- https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
-- https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
-- https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
-- https://leetcode.com/problems/count-collisions-on-a-road/
-- https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
-- https://leetcode.com/problems/construct-smallest-number-from-di-string/
-- https://leetcode.com/problems/removing-stars-from-a-string/
-- https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
-- https://leetcode.com/problems/minimum-additions-to-make-valid-string/
-- https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
-- https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/
-- https://leetcode.com/problems/find-mirror-score-of-a-string/
-- https://leetcode.com/problems/resulting-string-after-adjacent-removals/
-- https://leetcode.com/problems/remove-k-balanced-substrings/
-- https://leetcode.com/problems/minimum-string-length-after-balanced-removals/
-- https://leetcode.com/problems/merge-adjacent-equal-elements/
+- [ ] https://leetcode.com/problems/daily-temperatures/
+- [ ] https://leetcode.com/problems/next-greater-element-ii/
+- [ ] https://leetcode.com/problems/online-stock-span/
+- [ ] https://leetcode.com/problems/remove-duplicate-letters/
+- [ ] https://leetcode.com/problems/sum-of-subarray-minimums/
+- [ ] https://leetcode.com/problems/car-fleet/
+- [ ] https://leetcode.com/problems/sum-of-subarray-ranges/
+- [ ] https://leetcode.com/problems/remove-k-digits/
+- [ ] https://leetcode.com/problems/132-pattern/
+- [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+- [ ] https://leetcode.com/problems/maximum-binary-tree/
+- [ ] https://leetcode.com/problems/max-chunks-to-make-sorted/
+- [ ] https://leetcode.com/problems/maximum-width-ramp/
+- [ ] https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+- [ ] https://leetcode.com/problems/next-greater-node-in-linked-list/
+- [ ] https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+- [ ] https://leetcode.com/problems/longest-well-performing-interval/
+- [ ] https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+- [ ] https://leetcode.com/problems/count-submatrices-with-all-ones/
+- [ ] https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+- [ ] https://leetcode.com/problems/find-the-most-competitive-subsequence/
+- [ ] https://leetcode.com/problems/maximum-subarray-min-product/
+- [ ] https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+- [ ] https://leetcode.com/problems/steps-to-make-array-non-decreasing/
+- [ ] https://leetcode.com/problems/remove-nodes-from-linked-list/
+- [ ] https://leetcode.com/problems/beautiful-towers-i/
+- [ ] https://leetcode.com/problems/beautiful-towers-ii/
+- [ ] https://leetcode.com/problems/make-array-non-decreasing/
+- [ ] https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/
+- [ ] https://leetcode.com/problems/maximum-balanced-shipments/
+- [ ] https://leetcode.com/problems/count-bowl-subarrays/
+- [ ] https://leetcode.com/problems/count-robot-groups/
+- [ ] https://leetcode.com/problems/count-shadow-pairs-i/
+- [ ] https://leetcode.com/problems/simplify-path/
+- [ ] https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+- [ ] https://leetcode.com/problems/reorder-list/
+- [ ] https://leetcode.com/problems/evaluate-reverse-polish-notation/
+- [ ] https://leetcode.com/problems/min-stack/
+- [ ] https://leetcode.com/problems/binary-search-tree-iterator/
+- [ ] https://leetcode.com/problems/basic-calculator-ii/
+- [ ] https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+- [ ] https://leetcode.com/problems/flatten-nested-list-iterator/
+- [ ] https://leetcode.com/problems/mini-parser/
+- [ ] https://leetcode.com/problems/longest-absolute-file-path/
+- [ ] https://leetcode.com/problems/decode-string/
+- [ ] https://leetcode.com/problems/add-two-numbers-ii/
+- [ ] https://leetcode.com/problems/exclusive-time-of-functions/
+- [ ] https://leetcode.com/problems/valid-parenthesis-string/
+- [ ] https://leetcode.com/problems/asteroid-collision/
+- [ ] https://leetcode.com/problems/score-of-parentheses/
+- [ ] https://leetcode.com/problems/decoded-string-at-index/
+- [ ] https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+- [ ] https://leetcode.com/problems/validate-stack-sequences/
+- [ ] https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
+- [ ] https://leetcode.com/problems/clumsy-factorial/
+- [ ] https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
+- [ ] https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+- [ ] https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+- [ ] https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+- [ ] https://leetcode.com/problems/design-a-stack-with-increment-operation/
+- [ ] https://leetcode.com/problems/build-an-array-with-stack-operations/
+- [ ] https://leetcode.com/problems/design-browser-history/
+- [ ] https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+- [ ] https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+- [ ] https://leetcode.com/problems/maximum-score-from-removing-substrings/
+- [ ] https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+- [ ] https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+- [ ] https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
+- [ ] https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+- [ ] https://leetcode.com/problems/count-collisions-on-a-road/
+- [ ] https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
+- [ ] https://leetcode.com/problems/construct-smallest-number-from-di-string/
+- [ ] https://leetcode.com/problems/removing-stars-from-a-string/
+- [ ] https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
+- [ ] https://leetcode.com/problems/minimum-additions-to-make-valid-string/
+- [ ] https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
+- [ ] https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/
+- [ ] https://leetcode.com/problems/find-mirror-score-of-a-string/
+- [ ] https://leetcode.com/problems/resulting-string-after-adjacent-removals/
+- [ ] https://leetcode.com/problems/remove-k-balanced-substrings/
+- [ ] https://leetcode.com/problems/minimum-string-length-after-balanced-removals/
+- [ ] https://leetcode.com/problems/merge-adjacent-equal-elements/
 
 ## Hard
-- https://leetcode.com/problems/largest-rectangle-in-histogram/
-- https://leetcode.com/problems/maximal-rectangle/
-- https://leetcode.com/problems/trapping-rain-water/
-- https://open.kattis.com/problems/histogram
-- https://open.kattis.com/problems/histogrami
-- https://leetcode.com/problems/create-maximum-number/
-- https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
-- https://leetcode.com/problems/odd-even-jump/
-- https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
-- https://leetcode.com/problems/car-fleet-ii/
-- https://leetcode.com/problems/maximum-score-of-a-good-subarray/
-- https://leetcode.com/problems/number-of-visible-people-in-a-queue/
-- https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
-- https://leetcode.com/problems/sum-of-total-strength-of-wizards/
-- https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/
-- https://leetcode.com/problems/next-greater-element-iv/
-- https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/
-- https://leetcode.com/problems/maximum-sum-queries/
-- https://leetcode.com/problems/apply-operations-to-maximize-score/
-- https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/
-- https://leetcode.com/problems/find-maximum-non-decreasing-array-length/
-- https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/
-- https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/
-- https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
-- https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/
-- https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/
-- https://leetcode.com/problems/count-good-subarrays/
-- https://leetcode.com/problems/count-shadow-pairs-ii/
-- https://leetcode.com/problems/longest-valid-parentheses/
-- https://leetcode.com/problems/basic-calculator/
-- https://leetcode.com/problems/zuma-game/
-- https://leetcode.com/problems/tag-validator/
-- https://leetcode.com/problems/number-of-atoms/
-- https://leetcode.com/problems/parse-lisp-expression/
-- https://leetcode.com/problems/basic-calculator-iv/
-- https://leetcode.com/problems/maximum-frequency-stack/
-- https://leetcode.com/problems/stamping-the-sequence/
-- https://leetcode.com/problems/brace-expansion-ii/
-- https://leetcode.com/problems/parsing-a-boolean-expression/
-- https://leetcode.com/problems/dinner-plate-stacks/
-- https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/
-- https://leetcode.com/problems/the-score-of-students-solving-math-expression/
-- https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
-- https://leetcode.com/problems/design-a-text-editor/
-- https://leetcode.com/problems/minimum-time-to-complete-all-tasks/
-- https://leetcode.com/problems/robot-collisions/
-- https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/
+- [ ] https://leetcode.com/problems/largest-rectangle-in-histogram/
+- [ ] https://leetcode.com/problems/maximal-rectangle/
+- [ ] https://leetcode.com/problems/trapping-rain-water/
+- [ ] https://open.kattis.com/problems/histogram
+- [ ] https://open.kattis.com/problems/histogrami
+- [ ] https://leetcode.com/problems/create-maximum-number/
+- [ ] https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+- [ ] https://leetcode.com/problems/odd-even-jump/
+- [ ] https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
+- [ ] https://leetcode.com/problems/car-fleet-ii/
+- [ ] https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+- [ ] https://leetcode.com/problems/number-of-visible-people-in-a-queue/
+- [ ] https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
+- [ ] https://leetcode.com/problems/sum-of-total-strength-of-wizards/
+- [ ] https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/
+- [ ] https://leetcode.com/problems/next-greater-element-iv/
+- [ ] https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/
+- [ ] https://leetcode.com/problems/maximum-sum-queries/
+- [ ] https://leetcode.com/problems/apply-operations-to-maximize-score/
+- [ ] https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/
+- [ ] https://leetcode.com/problems/find-maximum-non-decreasing-array-length/
+- [ ] https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/
+- [ ] https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/
+- [ ] https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
+- [ ] https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/
+- [ ] https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/
+- [ ] https://leetcode.com/problems/count-good-subarrays/
+- [ ] https://leetcode.com/problems/count-shadow-pairs-ii/
+- [ ] https://leetcode.com/problems/longest-valid-parentheses/
+- [ ] https://leetcode.com/problems/basic-calculator/
+- [ ] https://leetcode.com/problems/zuma-game/
+- [ ] https://leetcode.com/problems/tag-validator/
+- [ ] https://leetcode.com/problems/number-of-atoms/
+- [ ] https://leetcode.com/problems/parse-lisp-expression/
+- [ ] https://leetcode.com/problems/basic-calculator-iv/
+- [ ] https://leetcode.com/problems/maximum-frequency-stack/
+- [ ] https://leetcode.com/problems/stamping-the-sequence/
+- [ ] https://leetcode.com/problems/brace-expansion-ii/
+- [ ] https://leetcode.com/problems/parsing-a-boolean-expression/
+- [ ] https://leetcode.com/problems/dinner-plate-stacks/
+- [ ] https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/
+- [ ] https://leetcode.com/problems/the-score-of-students-solving-math-expression/
+- [ ] https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
+- [ ] https://leetcode.com/problems/design-a-text-editor/
+- [ ] https://leetcode.com/problems/minimum-time-to-complete-all-tasks/
+- [ ] https://leetcode.com/problems/robot-collisions/
+- [ ] https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/

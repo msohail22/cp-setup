@@ -1,53 +1,53 @@
 ## Easy
-- https://leetcode.com/problems/implement-stack-using-queues/
-- https://leetcode.com/problems/implement-queue-using-stacks/
-- https://leetcode.com/problems/first-unique-character-in-a-string/
-- https://leetcode.com/problems/number-of-recent-calls/
-- https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
-- https://leetcode.com/problems/time-needed-to-buy-tickets/
+- [ ] https://leetcode.com/problems/implement-stack-using-queues/
+- [ ] https://leetcode.com/problems/implement-queue-using-stacks/
+- [ ] https://leetcode.com/problems/first-unique-character-in-a-string/
+- [ ] https://leetcode.com/problems/number-of-recent-calls/
+- [ ] https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+- [ ] https://leetcode.com/problems/time-needed-to-buy-tickets/
 
 ## Medium
-- https://leetcode.com/problems/design-circular-deque/
-- https://leetcode.com/problems/design-front-middle-back-queue/
-- https://leetcode.com/problems/jump-game-vi/
-- https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
-- https://cses.fi/problemset/task/3221
-- https://leetcode.com/problems/maximum-sum-circular-subarray/
-- https://leetcode.com/problems/continuous-subarrays/
-- https://leetcode.com/problems/minimum-number-of-coins-for-fruits/
-- https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/
-- https://leetcode.com/problems/count-prime-gap-balanced-subarrays/
-- https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/
-- https://leetcode.com/problems/flatten-nested-list-iterator/
-- https://leetcode.com/problems/design-circular-queue/
-- https://leetcode.com/problems/dota2-senate/
-- https://leetcode.com/problems/reveal-cards-in-increasing-order/
-- https://leetcode.com/problems/find-the-winner-of-the-circular-game/
-- https://leetcode.com/problems/number-of-people-aware-of-a-secret/
-- https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
-- https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/
-- https://leetcode.com/problems/implement-router/
-- https://leetcode.com/problems/design-ride-sharing-system/
+- [ ] https://leetcode.com/problems/design-circular-deque/
+- [ ] https://leetcode.com/problems/design-front-middle-back-queue/
+- [ ] https://leetcode.com/problems/jump-game-vi/
+- [ ] https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+- [ ] https://cses.fi/problemset/task/3221
+- [ ] https://leetcode.com/problems/maximum-sum-circular-subarray/
+- [ ] https://leetcode.com/problems/continuous-subarrays/
+- [ ] https://leetcode.com/problems/minimum-number-of-coins-for-fruits/
+- [ ] https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/
+- [ ] https://leetcode.com/problems/count-prime-gap-balanced-subarrays/
+- [ ] https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/
+- [ ] https://leetcode.com/problems/flatten-nested-list-iterator/
+- [ ] https://leetcode.com/problems/design-circular-queue/
+- [ ] https://leetcode.com/problems/dota2-senate/
+- [ ] https://leetcode.com/problems/reveal-cards-in-increasing-order/
+- [ ] https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+- [ ] https://leetcode.com/problems/number-of-people-aware-of-a-secret/
+- [ ] https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
+- [ ] https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/
+- [ ] https://leetcode.com/problems/implement-router/
+- [ ] https://leetcode.com/problems/design-ride-sharing-system/
 
 ## Hard
-- https://leetcode.com/problems/sliding-window-maximum/
-- https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
-- https://leetcode.com/problems/constrained-subsequence-sum/
-- https://leetcode.com/problems/max-value-of-equation/
-- https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
-- https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/
-- https://leetcode.com/problems/maximum-number-of-robots-within-budget/
-- https://leetcode.com/problems/longest-increasing-subsequence-ii/
-- https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
-- https://leetcode.com/problems/find-maximum-non-decreasing-array-length/
-- https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
-- https://leetcode.com/problems/minimum-partition-score/
-- https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/
-- https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/
-- https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/
-- https://leetcode.com/problems/stamping-the-sequence/
-- https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
-- https://leetcode.com/problems/finding-mk-average/
-- https://leetcode.com/problems/maximize-the-minimum-powered-city/
-- https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/
-- https://leetcode.com/problems/lexicographically-maximum-mex-array/
+- [ ] https://leetcode.com/problems/sliding-window-maximum/
+- [ ] https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+- [ ] https://leetcode.com/problems/constrained-subsequence-sum/
+- [ ] https://leetcode.com/problems/max-value-of-equation/
+- [ ] https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
+- [ ] https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/
+- [ ] https://leetcode.com/problems/maximum-number-of-robots-within-budget/
+- [ ] https://leetcode.com/problems/longest-increasing-subsequence-ii/
+- [ ] https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
+- [ ] https://leetcode.com/problems/find-maximum-non-decreasing-array-length/
+- [ ] https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
+- [ ] https://leetcode.com/problems/minimum-partition-score/
+- [ ] https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/
+- [ ] https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/
+- [ ] https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/
+- [ ] https://leetcode.com/problems/stamping-the-sequence/
+- [ ] https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
+- [ ] https://leetcode.com/problems/finding-mk-average/
+- [ ] https://leetcode.com/problems/maximize-the-minimum-powered-city/
+- [ ] https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/
+- [ ] https://leetcode.com/problems/lexicographically-maximum-mex-array/

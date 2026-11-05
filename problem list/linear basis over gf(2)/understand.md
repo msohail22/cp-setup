@@ -1,36 +1,36 @@
 ## Easy
 
 ## Medium
-- https://codeforces.com/problemset/problem/1991/D
-- https://codeforces.com/problemset/problem/1895/D
-- https://codeforces.com/problemset/problem/1207/E
-- https://codeforces.com/problemset/problem/1470/B
-- https://codeforces.com/problemset/problem/510/D
-- https://codeforces.com/problemset/problem/1492/D
-- https://codeforces.com/problemset/problem/1957/D
-- https://codeforces.com/problemset/problem/1383/B
-- https://codeforces.com/problemset/problem/1543/C
-- https://codeforces.com/problemset/problem/1777/D
-- https://codeforces.com/problemset/problem/1144/E
-- https://codeforces.com/problemset/problem/1220/D
-- https://codeforces.com/problemset/problem/2173/D
-- https://codeforces.com/problemset/problem/959/E
-- https://codeforces.com/problemset/problem/2077/B
-- https://codeforces.com/problemset/problem/2254/F
-- https://codeforces.com/problemset/problem/2211/D
-- https://codeforces.com/problemset/problem/388/B
-- https://codeforces.com/problemset/problem/232/B
-- https://cses.fi/problemset/task/1146
-- https://cses.fi/problemset/task/1655
-- https://cses.fi/problemset/task/3191
-- https://cses.fi/problemset/task/3211
-- https://cses.fi/problemset/task/3192
-- https://cses.fi/problemset/task/3233
-- https://cses.fi/problemset/task/2419
-- https://cses.fi/problemset/task/3194
-- https://cses.fi/problemset/task/3195
-- https://cses.fi/problemset/task/1654
-- https://cses.fi/problemset/task/3141
+- [ ] https://codeforces.com/problemset/problem/1991/D
+- [ ] https://codeforces.com/problemset/problem/1895/D
+- [ ] https://codeforces.com/problemset/problem/1207/E
+- [ ] https://codeforces.com/problemset/problem/1470/B
+- [ ] https://codeforces.com/problemset/problem/510/D
+- [ ] https://codeforces.com/problemset/problem/1492/D
+- [ ] https://codeforces.com/problemset/problem/1957/D
+- [ ] https://codeforces.com/problemset/problem/1383/B
+- [ ] https://codeforces.com/problemset/problem/1543/C
+- [ ] https://codeforces.com/problemset/problem/1777/D
+- [ ] https://codeforces.com/problemset/problem/1144/E
+- [ ] https://codeforces.com/problemset/problem/1220/D
+- [ ] https://codeforces.com/problemset/problem/2173/D
+- [ ] https://codeforces.com/problemset/problem/959/E
+- [ ] https://codeforces.com/problemset/problem/2077/B
+- [ ] https://codeforces.com/problemset/problem/2254/F
+- [ ] https://codeforces.com/problemset/problem/2211/D
+- [ ] https://codeforces.com/problemset/problem/388/B
+- [ ] https://codeforces.com/problemset/problem/232/B
+- [ ] https://cses.fi/problemset/task/1146
+- [ ] https://cses.fi/problemset/task/1655
+- [ ] https://cses.fi/problemset/task/3191
+- [ ] https://cses.fi/problemset/task/3211
+- [ ] https://cses.fi/problemset/task/3192
+- [ ] https://cses.fi/problemset/task/3233
+- [ ] https://cses.fi/problemset/task/2419
+- [ ] https://cses.fi/problemset/task/3194
+- [ ] https://cses.fi/problemset/task/3195
+- [ ] https://cses.fi/problemset/task/1654
+- [ ] https://cses.fi/problemset/task/3141
 
 ## Hard
-- https://codeforces.com/problemset/problem/895/C
+- [ ] https://codeforces.com/problemset/problem/895/C

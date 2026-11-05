@@ -1,37 +1,37 @@
 ## Easy
-- https://open.kattis.com/problems/minimumscalar
-- https://open.kattis.com/problems/snim
+- [ ] https://open.kattis.com/problems/minimumscalar
+- [ ] https://open.kattis.com/problems/snim
 
 ## Medium
-- https://cses.fi/problemset/task/1729
-- https://cses.fi/problemset/task/1730
-- https://cses.fi/problemset/task/1098
-- https://codeforces.com/problemset/problem/1363/C
-- https://codeforces.com/problemset/problem/1921/E
-- https://codeforces.com/problemset/problem/346/A
-- https://codeforces.com/problemset/problem/197/A
-- https://codeforces.com/problemset/problem/2207/B
-- https://codeforces.com/problemset/problem/1033/C
-- https://codeforces.com/problemset/problem/2181/F
-- https://codeforces.com/problemset/problem/1537/D
-- https://codeforces.com/problemset/problem/1451/D
-- https://codeforces.com/problemset/problem/493/D
-- https://codeforces.com/problemset/problem/2006/A
-- https://codeforces.com/problemset/problem/1873/H
-- https://codeforces.com/problemset/problem/2147/D
-- https://codeforces.com/problemset/problem/2152/D
-- https://codeforces.com/problemset/problem/1772/E
-- https://codeforces.com/problemset/problem/1503/B
-- https://codeforces.com/problemset/problem/1194/D
-- https://codeforces.com/problemset/problem/1215/D
-- https://open.kattis.com/problems/justaminim
-- https://open.kattis.com/problems/nimionese
-- https://open.kattis.com/problems/mincut
-- https://open.kattis.com/problems/minspantree
-- https://open.kattis.com/problems/animalattire
+- [ ] https://cses.fi/problemset/task/1729
+- [ ] https://cses.fi/problemset/task/1730
+- [ ] https://cses.fi/problemset/task/1098
+- [ ] https://codeforces.com/problemset/problem/1363/C
+- [ ] https://codeforces.com/problemset/problem/1921/E
+- [ ] https://codeforces.com/problemset/problem/346/A
+- [ ] https://codeforces.com/problemset/problem/197/A
+- [ ] https://codeforces.com/problemset/problem/2207/B
+- [ ] https://codeforces.com/problemset/problem/1033/C
+- [ ] https://codeforces.com/problemset/problem/2181/F
+- [ ] https://codeforces.com/problemset/problem/1537/D
+- [ ] https://codeforces.com/problemset/problem/1451/D
+- [ ] https://codeforces.com/problemset/problem/493/D
+- [ ] https://codeforces.com/problemset/problem/2006/A
+- [ ] https://codeforces.com/problemset/problem/1873/H
+- [ ] https://codeforces.com/problemset/problem/2147/D
+- [ ] https://codeforces.com/problemset/problem/2152/D
+- [ ] https://codeforces.com/problemset/problem/1772/E
+- [ ] https://codeforces.com/problemset/problem/1503/B
+- [ ] https://codeforces.com/problemset/problem/1194/D
+- [ ] https://codeforces.com/problemset/problem/1215/D
+- [ ] https://open.kattis.com/problems/justaminim
+- [ ] https://open.kattis.com/problems/nimionese
+- [ ] https://open.kattis.com/problems/mincut
+- [ ] https://open.kattis.com/problems/minspantree
+- [ ] https://open.kattis.com/problems/animalattire
 
 ## Hard
-- https://cses.fi/problemset/task/2207
-- https://leetcode.com/problems/stone-game-iv/
-- https://leetcode.com/problems/chalkboard-xor-game/
-- https://open.kattis.com/problems/mwvc
+- [ ] https://cses.fi/problemset/task/2207
+- [ ] https://leetcode.com/problems/stone-game-iv/
+- [ ] https://leetcode.com/problems/chalkboard-xor-game/
+- [ ] https://open.kattis.com/problems/mwvc

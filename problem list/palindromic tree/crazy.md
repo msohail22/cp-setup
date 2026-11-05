@@ -3,91 +3,91 @@
 ## Medium
 
 ## Hard
-- https://cses.fi/problemset/task/1111
-- https://cses.fi/problemset/task/2085
-- https://codeforces.com/problemset/problem/1537/E2
-- https://codeforces.com/problemset/problem/427/D
-- https://codeforces.com/problemset/problem/1721/E
-- https://codeforces.com/problemset/problem/1968/G2
-- https://codeforces.com/problemset/problem/526/D
-- https://codeforces.com/problemset/problem/2209/E
-- https://codeforces.com/problemset/problem/2045/H
-- https://codeforces.com/problemset/problem/149/E
-- https://codeforces.com/problemset/problem/727/E
-- https://codeforces.com/problemset/problem/557/E
-- https://codeforces.com/problemset/problem/1202/E
-- https://codeforces.com/problemset/problem/710/F
-- https://codeforces.com/problemset/problem/1469/E
-- https://codeforces.com/problemset/problem/825/F
-- https://codeforces.com/problemset/problem/873/F
-- https://codeforces.com/problemset/problem/128/B
-- https://codeforces.com/problemset/problem/631/D
-- https://codeforces.com/problemset/problem/2205/E
-- https://codeforces.com/problemset/problem/441/D
-- https://codeforces.com/problemset/problem/19/C
-- https://codeforces.com/problemset/problem/316/G2
-- https://codeforces.com/problemset/problem/802/G3
-- https://codeforces.com/problemset/problem/123/D
-- https://codeforces.com/problemset/problem/822/E
-- https://codeforces.com/problemset/problem/452/E
-- https://codeforces.com/problemset/problem/756/D
-- https://codeforces.com/problemset/problem/1780/G
-- https://codeforces.com/problemset/problem/1129/C
-- https://codeforces.com/problemset/problem/533/F
-- https://codeforces.com/problemset/problem/316/G3
-- https://codeforces.com/problemset/problem/963/D
-- https://codeforces.com/problemset/problem/1562/E
-- https://codeforces.com/problemset/problem/86/C
-- https://codeforces.com/problemset/problem/2038/I
-- https://codeforces.com/problemset/problem/1437/G
-- https://codeforces.com/problemset/problem/653/F
-- https://codeforces.com/problemset/problem/1536/F
-- https://codeforces.com/problemset/problem/1073/G
-- https://codeforces.com/problemset/problem/1466/G
-- https://codeforces.com/problemset/problem/2225/F
-- https://codeforces.com/problemset/problem/1739/F
-- https://codeforces.com/problemset/problem/2172/H
-- https://codeforces.com/problemset/problem/235/C
-- https://codeforces.com/problemset/problem/1207/G
-- https://codeforces.com/problemset/problem/2144/F
-- https://codeforces.com/problemset/problem/961/F
-- https://codeforces.com/problemset/problem/616/F
-- https://codeforces.com/problemset/problem/1916/H2
-- https://codeforces.com/problemset/problem/1511/F
-- https://codeforces.com/problemset/problem/524/F
-- https://codeforces.com/problemset/problem/547/E
-- https://codeforces.com/problemset/problem/204/E
-- https://codeforces.com/problemset/problem/1400/F
-- https://codeforces.com/problemset/problem/319/D
-- https://codeforces.com/problemset/problem/1913/F
-- https://codeforces.com/problemset/problem/1327/G
-- https://codeforces.com/problemset/problem/1923/F
-- https://codeforces.com/problemset/problem/1393/E1
-- https://codeforces.com/problemset/problem/2181/L
-- https://codeforces.com/problemset/problem/932/G
-- https://codeforces.com/problemset/problem/232/D
-- https://codeforces.com/problemset/problem/2196/E1
-- https://codeforces.com/problemset/problem/1387/C
-- https://codeforces.com/problemset/problem/914/F
-- https://codeforces.com/problemset/problem/504/E
-- https://codeforces.com/problemset/problem/356/E
-- https://codeforces.com/problemset/problem/2196/E2
-- https://codeforces.com/problemset/problem/666/E
-- https://codeforces.com/problemset/problem/594/E
-- https://codeforces.com/problemset/problem/1037/H
-- https://codeforces.com/problemset/problem/1393/E2
-- https://codeforces.com/problemset/problem/1598/G
-- https://codeforces.com/problemset/problem/700/E
-- https://codeforces.com/problemset/problem/1063/F
-- https://codeforces.com/problemset/problem/906/E
-- https://codeforces.com/problemset/problem/1266/G
-- https://codeforces.com/problemset/problem/1482/H
-- https://codeforces.com/problemset/problem/1801/G
-- https://codeforces.com/problemset/problem/1276/F
-- https://codeforces.com/problemset/problem/741/E
-- https://codeforces.com/problemset/problem/917/E
-- https://codeforces.com/problemset/problem/1817/F
-- https://codeforces.com/problemset/problem/1043/G
-- https://codeforces.com/problemset/problem/1608/G
-- https://codeforces.com/problemset/problem/1098/F
-- https://codeforces.com/problemset/problem/1621/I
+- [ ] https://cses.fi/problemset/task/1111
+- [ ] https://cses.fi/problemset/task/2085
+- [ ] https://codeforces.com/problemset/problem/1537/E2
+- [ ] https://codeforces.com/problemset/problem/427/D
+- [ ] https://codeforces.com/problemset/problem/1721/E
+- [ ] https://codeforces.com/problemset/problem/1968/G2
+- [ ] https://codeforces.com/problemset/problem/526/D
+- [ ] https://codeforces.com/problemset/problem/2209/E
+- [ ] https://codeforces.com/problemset/problem/2045/H
+- [ ] https://codeforces.com/problemset/problem/149/E
+- [ ] https://codeforces.com/problemset/problem/727/E
+- [ ] https://codeforces.com/problemset/problem/557/E
+- [ ] https://codeforces.com/problemset/problem/1202/E
+- [ ] https://codeforces.com/problemset/problem/710/F
+- [ ] https://codeforces.com/problemset/problem/1469/E
+- [ ] https://codeforces.com/problemset/problem/825/F
+- [ ] https://codeforces.com/problemset/problem/873/F
+- [ ] https://codeforces.com/problemset/problem/128/B
+- [ ] https://codeforces.com/problemset/problem/631/D
+- [ ] https://codeforces.com/problemset/problem/2205/E
+- [ ] https://codeforces.com/problemset/problem/441/D
+- [ ] https://codeforces.com/problemset/problem/19/C
+- [ ] https://codeforces.com/problemset/problem/316/G2
+- [ ] https://codeforces.com/problemset/problem/802/G3
+- [ ] https://codeforces.com/problemset/problem/123/D
+- [ ] https://codeforces.com/problemset/problem/822/E
+- [ ] https://codeforces.com/problemset/problem/452/E
+- [ ] https://codeforces.com/problemset/problem/756/D
+- [ ] https://codeforces.com/problemset/problem/1780/G
+- [ ] https://codeforces.com/problemset/problem/1129/C
+- [ ] https://codeforces.com/problemset/problem/533/F
+- [ ] https://codeforces.com/problemset/problem/316/G3
+- [ ] https://codeforces.com/problemset/problem/963/D
+- [ ] https://codeforces.com/problemset/problem/1562/E
+- [ ] https://codeforces.com/problemset/problem/86/C
+- [ ] https://codeforces.com/problemset/problem/2038/I
+- [ ] https://codeforces.com/problemset/problem/1437/G
+- [ ] https://codeforces.com/problemset/problem/653/F
+- [ ] https://codeforces.com/problemset/problem/1536/F
+- [ ] https://codeforces.com/problemset/problem/1073/G
+- [ ] https://codeforces.com/problemset/problem/1466/G
+- [ ] https://codeforces.com/problemset/problem/2225/F
+- [ ] https://codeforces.com/problemset/problem/1739/F
+- [ ] https://codeforces.com/problemset/problem/2172/H
+- [ ] https://codeforces.com/problemset/problem/235/C
+- [ ] https://codeforces.com/problemset/problem/1207/G
+- [ ] https://codeforces.com/problemset/problem/2144/F
+- [ ] https://codeforces.com/problemset/problem/961/F
+- [ ] https://codeforces.com/problemset/problem/616/F
+- [ ] https://codeforces.com/problemset/problem/1916/H2
+- [ ] https://codeforces.com/problemset/problem/1511/F
+- [ ] https://codeforces.com/problemset/problem/524/F
+- [ ] https://codeforces.com/problemset/problem/547/E
+- [ ] https://codeforces.com/problemset/problem/204/E
+- [ ] https://codeforces.com/problemset/problem/1400/F
+- [ ] https://codeforces.com/problemset/problem/319/D
+- [ ] https://codeforces.com/problemset/problem/1913/F
+- [ ] https://codeforces.com/problemset/problem/1327/G
+- [ ] https://codeforces.com/problemset/problem/1923/F
+- [ ] https://codeforces.com/problemset/problem/1393/E1
+- [ ] https://codeforces.com/problemset/problem/2181/L
+- [ ] https://codeforces.com/problemset/problem/932/G
+- [ ] https://codeforces.com/problemset/problem/232/D
+- [ ] https://codeforces.com/problemset/problem/2196/E1
+- [ ] https://codeforces.com/problemset/problem/1387/C
+- [ ] https://codeforces.com/problemset/problem/914/F
+- [ ] https://codeforces.com/problemset/problem/504/E
+- [ ] https://codeforces.com/problemset/problem/356/E
+- [ ] https://codeforces.com/problemset/problem/2196/E2
+- [ ] https://codeforces.com/problemset/problem/666/E
+- [ ] https://codeforces.com/problemset/problem/594/E
+- [ ] https://codeforces.com/problemset/problem/1037/H
+- [ ] https://codeforces.com/problemset/problem/1393/E2
+- [ ] https://codeforces.com/problemset/problem/1598/G
+- [ ] https://codeforces.com/problemset/problem/700/E
+- [ ] https://codeforces.com/problemset/problem/1063/F
+- [ ] https://codeforces.com/problemset/problem/906/E
+- [ ] https://codeforces.com/problemset/problem/1266/G
+- [ ] https://codeforces.com/problemset/problem/1482/H
+- [ ] https://codeforces.com/problemset/problem/1801/G
+- [ ] https://codeforces.com/problemset/problem/1276/F
+- [ ] https://codeforces.com/problemset/problem/741/E
+- [ ] https://codeforces.com/problemset/problem/917/E
+- [ ] https://codeforces.com/problemset/problem/1817/F
+- [ ] https://codeforces.com/problemset/problem/1043/G
+- [ ] https://codeforces.com/problemset/problem/1608/G
+- [ ] https://codeforces.com/problemset/problem/1098/F
+- [ ] https://codeforces.com/problemset/problem/1621/I

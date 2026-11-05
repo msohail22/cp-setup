@@ -1,110 +1,110 @@
 ## Easy
 
 ## Medium
-- https://cses.fi/problemset/task/1070
-- https://cses.fi/problemset/task/1751
-- https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
-- https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
-- https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
-- https://codeforces.com/problemset/problem/520/B
-- https://codeforces.com/problemset/problem/977/D
-- https://codeforces.com/problemset/problem/2033/E
-- https://codeforces.com/problemset/problem/1670/C
-- https://codeforces.com/problemset/problem/920/C
-- https://codeforces.com/problemset/problem/843/A
-- https://codeforces.com/problemset/problem/1352/F
-- https://codeforces.com/problemset/problem/1139/C
-- https://codeforces.com/problemset/problem/1487/C
-- https://codeforces.com/problemset/problem/2067/C
-- https://codeforces.com/problemset/problem/1829/F
-- https://codeforces.com/problemset/problem/1968/D
-- https://codeforces.com/problemset/problem/1638/C
-- https://codeforces.com/problemset/problem/1534/C
-- https://codeforces.com/problemset/problem/899/C
-- https://codeforces.com/problemset/problem/94/B
-- https://codeforces.com/problemset/problem/1475/C
-- https://codeforces.com/problemset/problem/2271/C
-- https://codeforces.com/problemset/problem/1391/C
-- https://codeforces.com/problemset/problem/1530/D
-- https://codeforces.com/problemset/problem/500/B
-- https://codeforces.com/problemset/problem/1615/C
-- https://codeforces.com/problemset/problem/2241/E
-- https://codeforces.com/problemset/problem/150/B
-- https://codeforces.com/problemset/problem/2172/F
-- https://codeforces.com/problemset/problem/23/B
-- https://codeforces.com/problemset/problem/1690/F
-- https://codeforces.com/problemset/problem/1868/B1
-- https://codeforces.com/problemset/problem/1009/D
-- https://codeforces.com/problemset/problem/1579/F
-- https://codeforces.com/problemset/problem/1328/D
-- https://codeforces.com/problemset/problem/1775/D
-- https://codeforces.com/problemset/problem/1552/D
-- https://codeforces.com/problemset/problem/1872/F
-- https://codeforces.com/problemset/problem/2020/D
-- https://codeforces.com/problemset/problem/1843/F1
-- https://codeforces.com/problemset/problem/2155/D
-- https://codeforces.com/problemset/problem/1852/B
-- https://codeforces.com/problemset/problem/1062/D
-- https://codeforces.com/problemset/problem/1369/D
-- https://codeforces.com/problemset/problem/1991/D
-- https://codeforces.com/problemset/problem/1994/D
-- https://codeforces.com/problemset/problem/1470/B
-- https://codeforces.com/problemset/problem/711/D
-- https://codeforces.com/problemset/problem/558/C
-- https://codeforces.com/problemset/problem/959/E
-- https://codeforces.com/problemset/problem/388/B
-- https://codeforces.com/problemset/problem/229/C
-- https://codeforces.com/problemset/problem/2275/G
+- [ ] https://cses.fi/problemset/task/1070
+- [ ] https://cses.fi/problemset/task/1751
+- [ ] https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+- [ ] https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
+- [ ] https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+- [ ] https://codeforces.com/problemset/problem/520/B
+- [ ] https://codeforces.com/problemset/problem/977/D
+- [ ] https://codeforces.com/problemset/problem/2033/E
+- [ ] https://codeforces.com/problemset/problem/1670/C
+- [ ] https://codeforces.com/problemset/problem/920/C
+- [ ] https://codeforces.com/problemset/problem/843/A
+- [ ] https://codeforces.com/problemset/problem/1352/F
+- [ ] https://codeforces.com/problemset/problem/1139/C
+- [ ] https://codeforces.com/problemset/problem/1487/C
+- [ ] https://codeforces.com/problemset/problem/2067/C
+- [ ] https://codeforces.com/problemset/problem/1829/F
+- [ ] https://codeforces.com/problemset/problem/1968/D
+- [ ] https://codeforces.com/problemset/problem/1638/C
+- [ ] https://codeforces.com/problemset/problem/1534/C
+- [ ] https://codeforces.com/problemset/problem/899/C
+- [ ] https://codeforces.com/problemset/problem/94/B
+- [ ] https://codeforces.com/problemset/problem/1475/C
+- [ ] https://codeforces.com/problemset/problem/2271/C
+- [ ] https://codeforces.com/problemset/problem/1391/C
+- [ ] https://codeforces.com/problemset/problem/1530/D
+- [ ] https://codeforces.com/problemset/problem/500/B
+- [ ] https://codeforces.com/problemset/problem/1615/C
+- [ ] https://codeforces.com/problemset/problem/2241/E
+- [ ] https://codeforces.com/problemset/problem/150/B
+- [ ] https://codeforces.com/problemset/problem/2172/F
+- [ ] https://codeforces.com/problemset/problem/23/B
+- [ ] https://codeforces.com/problemset/problem/1690/F
+- [ ] https://codeforces.com/problemset/problem/1868/B1
+- [ ] https://codeforces.com/problemset/problem/1009/D
+- [ ] https://codeforces.com/problemset/problem/1579/F
+- [ ] https://codeforces.com/problemset/problem/1328/D
+- [ ] https://codeforces.com/problemset/problem/1775/D
+- [ ] https://codeforces.com/problemset/problem/1552/D
+- [ ] https://codeforces.com/problemset/problem/1872/F
+- [ ] https://codeforces.com/problemset/problem/2020/D
+- [ ] https://codeforces.com/problemset/problem/1843/F1
+- [ ] https://codeforces.com/problemset/problem/2155/D
+- [ ] https://codeforces.com/problemset/problem/1852/B
+- [ ] https://codeforces.com/problemset/problem/1062/D
+- [ ] https://codeforces.com/problemset/problem/1369/D
+- [ ] https://codeforces.com/problemset/problem/1991/D
+- [ ] https://codeforces.com/problemset/problem/1994/D
+- [ ] https://codeforces.com/problemset/problem/1470/B
+- [ ] https://codeforces.com/problemset/problem/711/D
+- [ ] https://codeforces.com/problemset/problem/558/C
+- [ ] https://codeforces.com/problemset/problem/959/E
+- [ ] https://codeforces.com/problemset/problem/388/B
+- [ ] https://codeforces.com/problemset/problem/229/C
+- [ ] https://codeforces.com/problemset/problem/2275/G
 
 ## Hard
-- https://leetcode.com/problems/couples-holding-hands/
-- https://codeforces.com/problemset/problem/2135/C
-- https://codeforces.com/problemset/problem/2075/D
-- https://codeforces.com/problemset/problem/1266/D
-- https://codeforces.com/problemset/problem/842/C
-- https://codeforces.com/problemset/problem/1506/F
-- https://codeforces.com/problemset/problem/2195/F
-- https://codeforces.com/problemset/problem/1214/E
-- https://codeforces.com/problemset/problem/557/D
-- https://codeforces.com/problemset/problem/542/C
-- https://codeforces.com/problemset/problem/2152/E
-- https://codeforces.com/problemset/problem/2003/D2
-- https://codeforces.com/problemset/problem/546/E
-- https://codeforces.com/problemset/problem/1790/F
-- https://codeforces.com/problemset/problem/2092/E
-- https://codeforces.com/problemset/problem/1553/E
-- https://codeforces.com/problemset/problem/1863/E
-- https://codeforces.com/problemset/problem/1466/F
-- https://codeforces.com/problemset/problem/2040/E
-- https://codeforces.com/problemset/problem/1914/G1
-- https://codeforces.com/problemset/problem/1158/C
-- https://codeforces.com/problemset/problem/441/D
-- https://codeforces.com/problemset/problem/1485/D
-- https://codeforces.com/problemset/problem/1327/D
-- https://codeforces.com/problemset/problem/2112/E
-- https://codeforces.com/problemset/problem/1334/E
-- https://codeforces.com/problemset/problem/1537/F
-- https://codeforces.com/problemset/problem/1704/E
-- https://codeforces.com/problemset/problem/402/E
-- https://codeforces.com/problemset/problem/2118/D2
-- https://codeforces.com/problemset/problem/1763/E
-- https://codeforces.com/problemset/problem/1461/E
-- https://codeforces.com/problemset/problem/612/E
-- https://codeforces.com/problemset/problem/1039/C
-- https://codeforces.com/problemset/problem/2259/H
-- https://codeforces.com/problemset/problem/2045/G
-- https://codeforces.com/problemset/problem/1540/B
-- https://codeforces.com/problemset/problem/1322/C
-- https://codeforces.com/problemset/problem/1536/E
-- https://codeforces.com/problemset/problem/1654/E
-- https://codeforces.com/problemset/problem/845/G
-- https://codeforces.com/problemset/problem/1928/E
-- https://codeforces.com/problemset/problem/1874/C
-- https://codeforces.com/problemset/problem/1929/E
-- https://codeforces.com/problemset/problem/2097/B
-- https://codeforces.com/problemset/problem/2021/E1
-- https://codeforces.com/problemset/problem/2091/G
-- https://codeforces.com/problemset/problem/772/C
-- https://codeforces.com/problemset/problem/1932/G
-- https://codeforces.com/problemset/problem/1200/F
-- https://codeforces.com/problemset/problem/2262/C
+- [ ] https://leetcode.com/problems/couples-holding-hands/
+- [ ] https://codeforces.com/problemset/problem/2135/C
+- [ ] https://codeforces.com/problemset/problem/2075/D
+- [ ] https://codeforces.com/problemset/problem/1266/D
+- [ ] https://codeforces.com/problemset/problem/842/C
+- [ ] https://codeforces.com/problemset/problem/1506/F
+- [ ] https://codeforces.com/problemset/problem/2195/F
+- [ ] https://codeforces.com/problemset/problem/1214/E
+- [ ] https://codeforces.com/problemset/problem/557/D
+- [ ] https://codeforces.com/problemset/problem/542/C
+- [ ] https://codeforces.com/problemset/problem/2152/E
+- [ ] https://codeforces.com/problemset/problem/2003/D2
+- [ ] https://codeforces.com/problemset/problem/546/E
+- [ ] https://codeforces.com/problemset/problem/1790/F
+- [ ] https://codeforces.com/problemset/problem/2092/E
+- [ ] https://codeforces.com/problemset/problem/1553/E
+- [ ] https://codeforces.com/problemset/problem/1863/E
+- [ ] https://codeforces.com/problemset/problem/1466/F
+- [ ] https://codeforces.com/problemset/problem/2040/E
+- [ ] https://codeforces.com/problemset/problem/1914/G1
+- [ ] https://codeforces.com/problemset/problem/1158/C
+- [ ] https://codeforces.com/problemset/problem/441/D
+- [ ] https://codeforces.com/problemset/problem/1485/D
+- [ ] https://codeforces.com/problemset/problem/1327/D
+- [ ] https://codeforces.com/problemset/problem/2112/E
+- [ ] https://codeforces.com/problemset/problem/1334/E
+- [ ] https://codeforces.com/problemset/problem/1537/F
+- [ ] https://codeforces.com/problemset/problem/1704/E
+- [ ] https://codeforces.com/problemset/problem/402/E
+- [ ] https://codeforces.com/problemset/problem/2118/D2
+- [ ] https://codeforces.com/problemset/problem/1763/E
+- [ ] https://codeforces.com/problemset/problem/1461/E
+- [ ] https://codeforces.com/problemset/problem/612/E
+- [ ] https://codeforces.com/problemset/problem/1039/C
+- [ ] https://codeforces.com/problemset/problem/2259/H
+- [ ] https://codeforces.com/problemset/problem/2045/G
+- [ ] https://codeforces.com/problemset/problem/1540/B
+- [ ] https://codeforces.com/problemset/problem/1322/C
+- [ ] https://codeforces.com/problemset/problem/1536/E
+- [ ] https://codeforces.com/problemset/problem/1654/E
+- [ ] https://codeforces.com/problemset/problem/845/G
+- [ ] https://codeforces.com/problemset/problem/1928/E
+- [ ] https://codeforces.com/problemset/problem/1874/C
+- [ ] https://codeforces.com/problemset/problem/1929/E
+- [ ] https://codeforces.com/problemset/problem/2097/B
+- [ ] https://codeforces.com/problemset/problem/2021/E1
+- [ ] https://codeforces.com/problemset/problem/2091/G
+- [ ] https://codeforces.com/problemset/problem/772/C
+- [ ] https://codeforces.com/problemset/problem/1932/G
+- [ ] https://codeforces.com/problemset/problem/1200/F
+- [ ] https://codeforces.com/problemset/problem/2262/C

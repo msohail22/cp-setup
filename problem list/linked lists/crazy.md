@@ -1,71 +1,71 @@
 ## Easy
-- https://leetcode.com/problems/reverse-linked-list/
-- https://leetcode.com/problems/merge-two-sorted-lists/
-- https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-- https://leetcode.com/problems/linked-list-cycle/
-- https://leetcode.com/problems/middle-of-the-linked-list/
-- https://leetcode.com/problems/palindrome-linked-list/
-- https://leetcode.com/problems/intersection-of-two-linked-lists/
-- https://leetcode.com/problems/remove-linked-list-elements/
-- https://leetcode.com/problems/design-hashset/
-- https://leetcode.com/problems/design-hashmap/
-- https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
-- https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
+- [ ] https://leetcode.com/problems/reverse-linked-list/
+- [ ] https://leetcode.com/problems/merge-two-sorted-lists/
+- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+- [ ] https://leetcode.com/problems/linked-list-cycle/
+- [ ] https://leetcode.com/problems/middle-of-the-linked-list/
+- [ ] https://leetcode.com/problems/palindrome-linked-list/
+- [ ] https://leetcode.com/problems/intersection-of-two-linked-lists/
+- [ ] https://leetcode.com/problems/remove-linked-list-elements/
+- [ ] https://leetcode.com/problems/design-hashset/
+- [ ] https://leetcode.com/problems/design-hashmap/
+- [ ] https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+- [ ] https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
 
 ## Medium
-- https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- https://leetcode.com/problems/add-two-numbers/
-- https://leetcode.com/problems/reorder-list/
-- https://leetcode.com/problems/rotate-list/
-- https://leetcode.com/problems/linked-list-cycle-ii/
-- https://leetcode.com/problems/copy-list-with-random-pointer/
-- https://leetcode.com/problems/sort-list/
-- https://leetcode.com/problems/swap-nodes-in-pairs/
-- https://leetcode.com/problems/reverse-linked-list-ii/
-- https://leetcode.com/problems/partition-list/
-- https://leetcode.com/problems/lru-cache/
-- https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
-- https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
-- https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
-- https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
-- https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
-- https://leetcode.com/problems/insertion-sort-list/
-- https://leetcode.com/problems/delete-node-in-a-linked-list/
-- https://leetcode.com/problems/odd-even-linked-list/
-- https://leetcode.com/problems/design-twitter/
-- https://leetcode.com/problems/linked-list-random-node/
-- https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
-- https://leetcode.com/problems/add-two-numbers-ii/
-- https://leetcode.com/problems/design-circular-queue/
-- https://leetcode.com/problems/design-circular-deque/
-- https://leetcode.com/problems/design-linked-list/
-- https://leetcode.com/problems/split-linked-list-in-parts/
-- https://leetcode.com/problems/linked-list-components/
-- https://leetcode.com/problems/next-greater-node-in-linked-list/
-- https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
-- https://leetcode.com/problems/linked-list-in-binary-tree/
-- https://leetcode.com/problems/design-browser-history/
-- https://leetcode.com/problems/merge-in-between-linked-lists/
-- https://leetcode.com/problems/design-front-middle-back-queue/
-- https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
-- https://leetcode.com/problems/design-authentication-manager/
-- https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
-- https://leetcode.com/problems/reverse-nodes-in-even-length-groups/
-- https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
-- https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
-- https://leetcode.com/problems/merge-nodes-in-between-zeros/
-- https://leetcode.com/problems/steps-to-make-array-non-decreasing/
-- https://leetcode.com/problems/spiral-matrix-iv/
-- https://leetcode.com/problems/remove-nodes-from-linked-list/
-- https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/
-- https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
-- https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
+- [ ] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- [ ] https://leetcode.com/problems/add-two-numbers/
+- [ ] https://leetcode.com/problems/reorder-list/
+- [ ] https://leetcode.com/problems/rotate-list/
+- [ ] https://leetcode.com/problems/linked-list-cycle-ii/
+- [ ] https://leetcode.com/problems/copy-list-with-random-pointer/
+- [ ] https://leetcode.com/problems/sort-list/
+- [ ] https://leetcode.com/problems/swap-nodes-in-pairs/
+- [ ] https://leetcode.com/problems/reverse-linked-list-ii/
+- [ ] https://leetcode.com/problems/partition-list/
+- [ ] https://leetcode.com/problems/lru-cache/
+- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+- [ ] https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+- [ ] https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+- [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+- [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+- [ ] https://leetcode.com/problems/insertion-sort-list/
+- [ ] https://leetcode.com/problems/delete-node-in-a-linked-list/
+- [ ] https://leetcode.com/problems/odd-even-linked-list/
+- [ ] https://leetcode.com/problems/design-twitter/
+- [ ] https://leetcode.com/problems/linked-list-random-node/
+- [ ] https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+- [ ] https://leetcode.com/problems/add-two-numbers-ii/
+- [ ] https://leetcode.com/problems/design-circular-queue/
+- [ ] https://leetcode.com/problems/design-circular-deque/
+- [ ] https://leetcode.com/problems/design-linked-list/
+- [ ] https://leetcode.com/problems/split-linked-list-in-parts/
+- [ ] https://leetcode.com/problems/linked-list-components/
+- [ ] https://leetcode.com/problems/next-greater-node-in-linked-list/
+- [ ] https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
+- [ ] https://leetcode.com/problems/linked-list-in-binary-tree/
+- [ ] https://leetcode.com/problems/design-browser-history/
+- [ ] https://leetcode.com/problems/merge-in-between-linked-lists/
+- [ ] https://leetcode.com/problems/design-front-middle-back-queue/
+- [ ] https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+- [ ] https://leetcode.com/problems/design-authentication-manager/
+- [ ] https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+- [ ] https://leetcode.com/problems/reverse-nodes-in-even-length-groups/
+- [ ] https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+- [ ] https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+- [ ] https://leetcode.com/problems/merge-nodes-in-between-zeros/
+- [ ] https://leetcode.com/problems/steps-to-make-array-non-decreasing/
+- [ ] https://leetcode.com/problems/spiral-matrix-iv/
+- [ ] https://leetcode.com/problems/remove-nodes-from-linked-list/
+- [ ] https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/
+- [ ] https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
+- [ ] https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
 
 ## Hard
-- https://leetcode.com/problems/merge-k-sorted-lists/
-- https://leetcode.com/problems/reverse-nodes-in-k-group/
-- https://leetcode.com/problems/all-oone-data-structure/
-- https://leetcode.com/problems/lfu-cache/
-- https://leetcode.com/problems/design-skiplist/
-- https://leetcode.com/problems/design-a-text-editor/
-- https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/
+- [ ] https://leetcode.com/problems/merge-k-sorted-lists/
+- [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
+- [ ] https://leetcode.com/problems/all-oone-data-structure/
+- [ ] https://leetcode.com/problems/lfu-cache/
+- [ ] https://leetcode.com/problems/design-skiplist/
+- [ ] https://leetcode.com/problems/design-a-text-editor/
+- [ ] https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/

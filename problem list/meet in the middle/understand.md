@@ -1,34 +1,34 @@
 ## Easy
 
 ## Medium
-- https://codeforces.com/problemset/problem/515/B
-- https://codeforces.com/problemset/problem/1263/C
-- https://codeforces.com/problemset/problem/1249/C2
-- https://codeforces.com/problemset/problem/1043/D
-- https://codeforces.com/problemset/problem/769/D
-- https://codeforces.com/problemset/problem/457/A
-- https://codeforces.com/problemset/problem/888/E
-- https://codeforces.com/problemset/problem/513/G1
-- https://codeforces.com/problemset/problem/552/C
-- https://codeforces.com/problemset/problem/1800/F
-- https://codeforces.com/problemset/problem/490/D
-- https://codeforces.com/problemset/problem/45/D
-- https://codeforces.com/problemset/problem/285/D
-- https://cses.fi/problemset/task/1628
-- https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/
+- [ ] https://codeforces.com/problemset/problem/515/B
+- [ ] https://codeforces.com/problemset/problem/1263/C
+- [ ] https://codeforces.com/problemset/problem/1249/C2
+- [ ] https://codeforces.com/problemset/problem/1043/D
+- [ ] https://codeforces.com/problemset/problem/769/D
+- [ ] https://codeforces.com/problemset/problem/457/A
+- [ ] https://codeforces.com/problemset/problem/888/E
+- [ ] https://codeforces.com/problemset/problem/513/G1
+- [ ] https://codeforces.com/problemset/problem/552/C
+- [ ] https://codeforces.com/problemset/problem/1800/F
+- [ ] https://codeforces.com/problemset/problem/490/D
+- [ ] https://codeforces.com/problemset/problem/45/D
+- [ ] https://codeforces.com/problemset/problem/285/D
+- [ ] https://cses.fi/problemset/task/1628
+- [ ] https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/
 
 ## Hard
-- https://codeforces.com/problemset/problem/1006/F
-- https://codeforces.com/problemset/problem/525/E
-- https://codeforces.com/problemset/problem/1593/F
-- https://codeforces.com/problemset/problem/799/D
-- https://codeforces.com/problemset/problem/1840/G1
-- https://codeforces.com/problemset/problem/1105/E
-- https://codeforces.com/problemset/problem/585/D
-- https://codeforces.com/problemset/problem/1982/E
-- https://codeforces.com/problemset/problem/327/E
-- https://codeforces.com/problemset/problem/1257/F
-- https://codeforces.com/problemset/problem/912/E
-- https://codeforces.com/problemset/problem/534/F
-- https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
-- https://leetcode.com/problems/closest-subsequence-sum/
+- [ ] https://codeforces.com/problemset/problem/1006/F
+- [ ] https://codeforces.com/problemset/problem/525/E
+- [ ] https://codeforces.com/problemset/problem/1593/F
+- [ ] https://codeforces.com/problemset/problem/799/D
+- [ ] https://codeforces.com/problemset/problem/1840/G1
+- [ ] https://codeforces.com/problemset/problem/1105/E
+- [ ] https://codeforces.com/problemset/problem/585/D
+- [ ] https://codeforces.com/problemset/problem/1982/E
+- [ ] https://codeforces.com/problemset/problem/327/E
+- [ ] https://codeforces.com/problemset/problem/1257/F
+- [ ] https://codeforces.com/problemset/problem/912/E
+- [ ] https://codeforces.com/problemset/problem/534/F
+- [ ] https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+- [ ] https://leetcode.com/problems/closest-subsequence-sum/

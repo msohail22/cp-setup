@@ -1,559 +1,559 @@
 ## Easy
-- https://leetcode.com/problems/flood-fill/
-- https://leetcode.com/problems/island-perimeter/
-- https://leetcode.com/problems/reshape-the-matrix/
-- https://leetcode.com/problems/image-smoother/
-- https://leetcode.com/problems/toeplitz-matrix/
-- https://leetcode.com/problems/flipping-an-image/
-- https://leetcode.com/problems/transpose-matrix/
-- https://leetcode.com/problems/projection-area-of-3d-shapes/
-- https://leetcode.com/problems/surface-area-of-3d-shapes/
-- https://leetcode.com/problems/available-captures-for-rook/
-- https://leetcode.com/problems/matrix-cells-in-distance-order/
-- https://leetcode.com/problems/shift-2d-grid/
-- https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
-- https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
-- https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
-- https://leetcode.com/problems/lucky-numbers-in-a-matrix/
-- https://leetcode.com/problems/matrix-diagonal-sum/
-- https://leetcode.com/problems/special-positions-in-a-binary-matrix/
-- https://leetcode.com/problems/richest-customer-wealth/
-- https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
-- https://leetcode.com/problems/convert-1d-array-into-2d-array/
-- https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
-- https://leetcode.com/problems/check-if-matrix-is-x-matrix/
-- https://leetcode.com/problems/largest-local-values-in-a-matrix/
-- https://leetcode.com/problems/delete-greatest-value-in-each-row/
-- https://leetcode.com/problems/prime-in-diagonal/
-- https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
-- https://leetcode.com/problems/row-with-maximum-ones/
-- https://leetcode.com/problems/find-champion-i/
-- https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
-- https://leetcode.com/problems/find-missing-and-repeated-values/
-- https://leetcode.com/problems/modify-the-matrix/
-- https://leetcode.com/problems/make-a-square-with-the-same-color/
-- https://leetcode.com/problems/check-if-grid-satisfies-conditions/
-- https://leetcode.com/problems/design-neighbor-sum-service/
-- https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
-- https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
-- https://leetcode.com/problems/flip-square-submatrix-vertically/
-- https://leetcode.com/problems/find-the-degree-of-each-vertex/
-- https://leetcode.com/problems/cyclically-shift-rows-and-columns/
-- https://leetcode.com/problems/same-tree/
-- https://leetcode.com/problems/symmetric-tree/
-- https://leetcode.com/problems/maximum-depth-of-binary-tree/
-- https://leetcode.com/problems/minimum-depth-of-binary-tree/
-- https://leetcode.com/problems/path-sum/
-- https://leetcode.com/problems/invert-binary-tree/
-- https://leetcode.com/problems/sum-of-left-leaves/
-- https://leetcode.com/problems/minimum-absolute-difference-in-bst/
-- https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
-- https://leetcode.com/problems/merge-two-binary-trees/
-- https://leetcode.com/problems/average-of-levels-in-binary-tree/
-- https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
-- https://leetcode.com/problems/minimum-distance-between-bst-nodes/
-- https://leetcode.com/problems/univalued-binary-tree/
-- https://leetcode.com/problems/cousins-in-binary-tree/
-- https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
-- https://leetcode.com/problems/find-if-path-exists-in-graph/
-- https://codeforces.com/problemset/problem/1549/B
-- https://codeforces.com/problemset/problem/115/A
-- https://codeforces.com/problemset/problem/948/A
-- https://codeforces.com/problemset/problem/500/A
-- https://codeforces.com/problemset/problem/1020/B
-- https://codeforces.com/problemset/problem/1033/A
-- https://codeforces.com/problemset/problem/1829/E
-- https://codeforces.com/problemset/problem/2184/C
-- https://codeforces.com/problemset/problem/648/C
-- https://codeforces.com/problemset/problem/217/A
-- https://codeforces.com/problemset/problem/522/A
-- https://codeforces.com/problemset/problem/129/B
-- https://codeforces.com/problemset/problem/2257/C
+- [ ] https://leetcode.com/problems/flood-fill/
+- [ ] https://leetcode.com/problems/island-perimeter/
+- [ ] https://leetcode.com/problems/reshape-the-matrix/
+- [ ] https://leetcode.com/problems/image-smoother/
+- [ ] https://leetcode.com/problems/toeplitz-matrix/
+- [ ] https://leetcode.com/problems/flipping-an-image/
+- [ ] https://leetcode.com/problems/transpose-matrix/
+- [ ] https://leetcode.com/problems/projection-area-of-3d-shapes/
+- [ ] https://leetcode.com/problems/surface-area-of-3d-shapes/
+- [ ] https://leetcode.com/problems/available-captures-for-rook/
+- [ ] https://leetcode.com/problems/matrix-cells-in-distance-order/
+- [ ] https://leetcode.com/problems/shift-2d-grid/
+- [ ] https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
+- [ ] https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+- [ ] https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+- [ ] https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+- [ ] https://leetcode.com/problems/matrix-diagonal-sum/
+- [ ] https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+- [ ] https://leetcode.com/problems/richest-customer-wealth/
+- [ ] https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+- [ ] https://leetcode.com/problems/convert-1d-array-into-2d-array/
+- [ ] https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
+- [ ] https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+- [ ] https://leetcode.com/problems/largest-local-values-in-a-matrix/
+- [ ] https://leetcode.com/problems/delete-greatest-value-in-each-row/
+- [ ] https://leetcode.com/problems/prime-in-diagonal/
+- [ ] https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
+- [ ] https://leetcode.com/problems/row-with-maximum-ones/
+- [ ] https://leetcode.com/problems/find-champion-i/
+- [ ] https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+- [ ] https://leetcode.com/problems/find-missing-and-repeated-values/
+- [ ] https://leetcode.com/problems/modify-the-matrix/
+- [ ] https://leetcode.com/problems/make-a-square-with-the-same-color/
+- [ ] https://leetcode.com/problems/check-if-grid-satisfies-conditions/
+- [ ] https://leetcode.com/problems/design-neighbor-sum-service/
+- [ ] https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/
+- [ ] https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
+- [ ] https://leetcode.com/problems/flip-square-submatrix-vertically/
+- [ ] https://leetcode.com/problems/find-the-degree-of-each-vertex/
+- [ ] https://leetcode.com/problems/cyclically-shift-rows-and-columns/
+- [ ] https://leetcode.com/problems/same-tree/
+- [ ] https://leetcode.com/problems/symmetric-tree/
+- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree/
+- [ ] https://leetcode.com/problems/path-sum/
+- [ ] https://leetcode.com/problems/invert-binary-tree/
+- [ ] https://leetcode.com/problems/sum-of-left-leaves/
+- [ ] https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+- [ ] https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+- [ ] https://leetcode.com/problems/merge-two-binary-trees/
+- [ ] https://leetcode.com/problems/average-of-levels-in-binary-tree/
+- [ ] https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+- [ ] https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+- [ ] https://leetcode.com/problems/univalued-binary-tree/
+- [ ] https://leetcode.com/problems/cousins-in-binary-tree/
+- [ ] https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+- [ ] https://leetcode.com/problems/find-if-path-exists-in-graph/
+- [ ] https://codeforces.com/problemset/problem/1549/B
+- [ ] https://codeforces.com/problemset/problem/115/A
+- [ ] https://codeforces.com/problemset/problem/948/A
+- [ ] https://codeforces.com/problemset/problem/500/A
+- [ ] https://codeforces.com/problemset/problem/1020/B
+- [ ] https://codeforces.com/problemset/problem/1033/A
+- [ ] https://codeforces.com/problemset/problem/1829/E
+- [ ] https://codeforces.com/problemset/problem/2184/C
+- [ ] https://codeforces.com/problemset/problem/648/C
+- [ ] https://codeforces.com/problemset/problem/217/A
+- [ ] https://codeforces.com/problemset/problem/522/A
+- [ ] https://codeforces.com/problemset/problem/129/B
+- [ ] https://codeforces.com/problemset/problem/2257/C
 
 ## Medium
-- https://cses.fi/problemset/task/1667
-- https://cses.fi/problemset/task/1193
-- https://leetcode.com/problems/number-of-islands/
-- https://leetcode.com/problems/rotting-oranges/
-- https://leetcode.com/problems/01-matrix/
-- https://leetcode.com/problems/shortest-path-in-binary-matrix/
-- https://leetcode.com/problems/walls-and-gates/
-- https://leetcode.com/problems/as-far-from-land-as-possible/
-- https://open.kattis.com/problems/marblemaze
-- https://open.kattis.com/problems/grid
-- https://leetcode.com/problems/valid-sudoku/
-- https://leetcode.com/problems/rotate-image/
-- https://leetcode.com/problems/spiral-matrix/
-- https://leetcode.com/problems/spiral-matrix-ii/
-- https://leetcode.com/problems/unique-paths-ii/
-- https://leetcode.com/problems/minimum-path-sum/
-- https://leetcode.com/problems/set-matrix-zeroes/
-- https://leetcode.com/problems/search-a-2d-matrix/
-- https://leetcode.com/problems/word-search/
-- https://leetcode.com/problems/surrounded-regions/
-- https://leetcode.com/problems/maximal-square/
-- https://leetcode.com/problems/search-a-2d-matrix-ii/
-- https://leetcode.com/problems/game-of-life/
-- https://leetcode.com/problems/range-sum-query-2d-immutable/
-- https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
-- https://leetcode.com/problems/pacific-atlantic-water-flow/
-- https://leetcode.com/problems/battleships-in-a-board/
-- https://leetcode.com/problems/construct-quad-tree/
-- https://leetcode.com/problems/diagonal-traverse/
-- https://leetcode.com/problems/minesweeper/
-- https://leetcode.com/problems/max-area-of-island/
-- https://leetcode.com/problems/valid-tic-tac-toe-state/
-- https://leetcode.com/problems/max-increase-to-keep-city-skyline/
-- https://leetcode.com/problems/image-overlap/
-- https://leetcode.com/problems/magic-squares-in-grid/
-- https://leetcode.com/problems/score-after-flipping-matrix/
-- https://leetcode.com/problems/spiral-matrix-iii/
-- https://leetcode.com/problems/snakes-and-ladders/
-- https://leetcode.com/problems/minimum-falling-path-sum/
-- https://leetcode.com/problems/shortest-bridge/
-- https://leetcode.com/problems/regions-cut-by-slashes/
-- https://leetcode.com/problems/number-of-enclaves/
-- https://leetcode.com/problems/coloring-a-border/
-- https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/
-- https://leetcode.com/problems/largest-1-bordered-square/
-- https://leetcode.com/problems/path-with-maximum-gold/
-- https://leetcode.com/problems/queens-that-can-attack-the-king/
-- https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
-- https://leetcode.com/problems/number-of-closed-islands/
-- https://leetcode.com/problems/count-servers-that-communicate/
-- https://leetcode.com/problems/count-square-submatrices-with-all-ones/
-- https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
-- https://leetcode.com/problems/matrix-block-sum/
-- https://leetcode.com/problems/sort-the-matrix-diagonally/
-- https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
-- https://leetcode.com/problems/subrectangle-queries/
-- https://leetcode.com/problems/count-submatrices-with-all-ones/
-- https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
-- https://leetcode.com/problems/detect-cycles-in-2d-grid/
-- https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
-- https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
-- https://leetcode.com/problems/path-with-minimum-effort/
-- https://leetcode.com/problems/where-will-the-ball-fall/
-- https://leetcode.com/problems/largest-submatrix-with-rearrangements/
-- https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
-- https://leetcode.com/problems/map-of-highest-peak/
-- https://leetcode.com/problems/rotating-the-box/
-- https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
-- https://leetcode.com/problems/largest-magic-square/
-- https://leetcode.com/problems/find-a-peak-element-ii/
-- https://leetcode.com/problems/count-sub-islands/
-- https://leetcode.com/problems/cyclically-rotating-a-grid/
-- https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
-- https://leetcode.com/problems/maximum-number-of-points-with-cost/
-- https://leetcode.com/problems/check-if-move-is-legal/
-- https://leetcode.com/problems/maximum-matrix-sum/
-- https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/
-- https://leetcode.com/problems/find-all-groups-of-farmland/
-- https://leetcode.com/problems/grid-game/
-- https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/
-- https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
-- https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
-- https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/
-- https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/
-- https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
-- https://leetcode.com/problems/minimum-path-cost-in-a-grid/
-- https://leetcode.com/problems/spiral-matrix-iv/
-- https://leetcode.com/problems/equal-row-and-column-pairs/
-- https://leetcode.com/problems/maximum-rows-covered-by-columns/
-- https://leetcode.com/problems/maximum-sum-of-an-hourglass/
-- https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
-- https://leetcode.com/problems/increment-submatrices-by-one/
-- https://leetcode.com/problems/sort-the-students-by-their-kth-score/
-- https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/
-- https://leetcode.com/problems/check-knight-tour-configuration/
-- https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/
-- https://leetcode.com/problems/first-completely-painted-row-or-column/
-- https://leetcode.com/problems/sum-in-a-matrix/
-- https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/
-- https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/
-- https://leetcode.com/problems/find-the-safest-path-in-a-grid/
-- https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/
-- https://leetcode.com/problems/construct-product-matrix/
-- https://leetcode.com/problems/find-the-grid-of-region-average/
-- https://leetcode.com/problems/most-frequent-prime/
-- https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/
-- https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/
-- https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/
-- https://leetcode.com/problems/maximum-difference-score-in-a-grid/
-- https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
-- https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/
-- https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/
-- https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/
-- https://leetcode.com/problems/find-a-safe-walk-through-a-grid/
-- https://leetcode.com/problems/maximum-points-tourist-can-earn/
-- https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/
-- https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
-- https://leetcode.com/problems/count-paths-with-the-given-xor-value/
-- https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/
-- https://leetcode.com/problems/sort-matrix-by-diagonals/
-- https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/
-- https://leetcode.com/problems/design-spreadsheet/
-- https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/
-- https://leetcode.com/problems/fill-a-special-grid/
-- https://leetcode.com/problems/equal-sum-grid-partition-i/
-- https://leetcode.com/problems/grid-teleportation-traversal/
-- https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/
-- https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
-- https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/
-- https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
-- https://leetcode.com/problems/twisted-mirror-path-count/
-- https://leetcode.com/problems/maximum-path-score-in-a-grid/
-- https://leetcode.com/problems/minimum-bitwise-or-from-grid/
-- https://leetcode.com/problems/minimum-xor-path-in-a-grid/
-- https://leetcode.com/problems/multi-source-flood-fill/
-- https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/
-- https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/
-- https://leetcode.com/problems/maximize-sum-of-device-ratings/
-- https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/
-- https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/
-- https://leetcode.com/problems/binary-tree-level-order-traversal/
-- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
-- https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-- https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
-- https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
-- https://leetcode.com/problems/clone-graph/
-- https://leetcode.com/problems/binary-tree-right-side-view/
-- https://leetcode.com/problems/course-schedule/
-- https://leetcode.com/problems/course-schedule-ii/
-- https://leetcode.com/problems/perfect-squares/
-- https://leetcode.com/problems/minimum-height-trees/
-- https://leetcode.com/problems/coin-change/
-- https://leetcode.com/problems/water-and-jug-problem/
-- https://leetcode.com/problems/evaluate-division/
-- https://leetcode.com/problems/n-ary-tree-level-order-traversal/
-- https://leetcode.com/problems/minimum-genetic-mutation/
-- https://leetcode.com/problems/serialize-and-deserialize-bst/
-- https://leetcode.com/problems/find-bottom-left-tree-value/
-- https://leetcode.com/problems/find-largest-value-in-each-tree-row/
-- https://leetcode.com/problems/number-of-provinces/
-- https://leetcode.com/problems/add-one-row-to-tree/
-- https://leetcode.com/problems/print-binary-tree/
-- https://leetcode.com/problems/maximum-width-of-binary-tree/
-- https://leetcode.com/problems/bulb-switcher-ii/
-- https://leetcode.com/problems/redundant-connection/
-- https://leetcode.com/problems/employee-importance/
-- https://leetcode.com/problems/accounts-merge/
-- https://leetcode.com/problems/network-delay-time/
-- https://leetcode.com/problems/open-the-lock/
-- https://leetcode.com/problems/is-graph-bipartite/
-- https://leetcode.com/problems/cheapest-flights-within-k-stops/
-- https://leetcode.com/problems/all-paths-from-source-to-target/
-- https://leetcode.com/problems/find-eventual-safe-states/
-- https://leetcode.com/problems/keys-and-rooms/
-- https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
-- https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
-- https://leetcode.com/problems/possible-bipartition/
-- https://leetcode.com/problems/complete-binary-tree-inserter/
-- https://leetcode.com/problems/check-completeness-of-a-binary-tree/
-- https://leetcode.com/problems/numbers-with-same-consecutive-differences/
-- https://leetcode.com/problems/flower-planting-with-no-adjacent/
-- https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
-- https://leetcode.com/problems/shortest-path-with-alternating-colors/
-- https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
-- https://leetcode.com/problems/smallest-string-with-swaps/
-- https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
-- https://leetcode.com/problems/deepest-leaves-sum/
-- https://leetcode.com/problems/jump-game-iii/
-- https://leetcode.com/problems/get-watched-videos-by-your-friends/
-- https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
-- https://leetcode.com/problems/number-of-operations-to-make-network-connected/
-- https://leetcode.com/problems/validate-binary-tree-nodes/
-- https://leetcode.com/problems/time-needed-to-inform-all-employees/
-- https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
-- https://leetcode.com/problems/count-good-nodes-in-binary-tree/
-- https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
-- https://leetcode.com/problems/course-schedule-iv/
-- https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
-- https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
-- https://leetcode.com/problems/even-odd-tree/
-- https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
-- https://leetcode.com/problems/minimum-jumps-to-reach-home/
-- https://leetcode.com/problems/operations-on-tree/
-- https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
-- https://leetcode.com/problems/minimum-operations-to-convert-number/
-- https://leetcode.com/problems/detonate-the-maximum-bombs/
-- https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
-- https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
-- https://leetcode.com/problems/reachable-nodes-with-restrictions/
-- https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
-- https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
-- https://leetcode.com/problems/most-profitable-path-in-a-tree/
-- https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
-- https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
-- https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
-- https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
-- https://leetcode.com/problems/cousins-in-binary-tree-ii/
-- https://leetcode.com/problems/count-the-number-of-complete-components/
-- https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/
-- https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/
-- https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/
-- https://leetcode.com/problems/remove-methods-from-project/
-- https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/
-- https://leetcode.com/problems/minimum-time-to-break-locks-i/
-- https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/
-- https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/
-- https://leetcode.com/problems/properties-graph/
-- https://leetcode.com/problems/unit-conversion-i/
-- https://leetcode.com/problems/power-grid-maintenance/
-- https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
-- https://leetcode.com/problems/split-and-merge-array-transformation/
-- https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/
-- https://codeforces.com/problemset/problem/893/C
-- https://codeforces.com/problemset/problem/862/B
-- https://codeforces.com/problemset/problem/1676/G
-- https://codeforces.com/problemset/problem/1829/F
-- https://codeforces.com/problemset/problem/1948/C
-- https://codeforces.com/problemset/problem/1661/B
-- https://codeforces.com/problemset/problem/1741/D
-- https://codeforces.com/problemset/problem/2056/B
-- https://codeforces.com/problemset/problem/1968/D
-- https://codeforces.com/problemset/problem/2086/C
-- https://codeforces.com/problemset/problem/755/C
-- https://codeforces.com/problemset/problem/2143/C
-- https://codeforces.com/problemset/problem/520/B
-- https://codeforces.com/problemset/problem/1167/C
-- https://codeforces.com/problemset/problem/1830/A
-- https://codeforces.com/problemset/problem/505/B
-- https://codeforces.com/problemset/problem/1893/A
-- https://codeforces.com/problemset/problem/2033/E
-- https://codeforces.com/problemset/problem/1670/C
-- https://codeforces.com/problemset/problem/1735/C
-- https://codeforces.com/problemset/problem/1761/C
-- https://codeforces.com/problemset/problem/2204/D
-- https://codeforces.com/problemset/problem/2034/C
-- https://codeforces.com/problemset/problem/475/B
-- https://codeforces.com/problemset/problem/802/J1
-- https://codeforces.com/problemset/problem/107/A
-- https://codeforces.com/problemset/problem/580/C
-- https://codeforces.com/problemset/problem/977/E
-- https://codeforces.com/problemset/problem/839/C
-- https://codeforces.com/problemset/problem/1106/D
-- https://codeforces.com/problemset/problem/771/A
-- https://codeforces.com/problemset/problem/1139/C
-- https://codeforces.com/problemset/problem/982/C
-- https://codeforces.com/problemset/problem/687/A
-- https://codeforces.com/problemset/problem/1263/D
-- https://codeforces.com/problemset/problem/1800/E2
-- https://codeforces.com/problemset/problem/1487/C
-- https://codeforces.com/problemset/problem/2027/C
-- https://codeforces.com/problemset/problem/1851/E
-- https://codeforces.com/problemset/problem/2060/E
-- https://codeforces.com/problemset/problem/103/B
-- https://codeforces.com/problemset/problem/744/A
-- https://codeforces.com/problemset/problem/930/A
-- https://codeforces.com/problemset/problem/574/B
-- https://codeforces.com/problemset/problem/320/B
-- https://codeforces.com/problemset/problem/300/B
-- https://codeforces.com/problemset/problem/690/C2
-- https://codeforces.com/problemset/problem/177/C2
-- https://codeforces.com/problemset/problem/177/C1
-- https://codeforces.com/problemset/problem/770/C
-- https://codeforces.com/problemset/problem/510/C
-- https://codeforces.com/problemset/problem/1833/E
-- https://codeforces.com/problemset/problem/1702/E
-- https://codeforces.com/problemset/problem/2063/C
-- https://codeforces.com/problemset/problem/369/C
-- https://codeforces.com/problemset/problem/763/A
-- https://codeforces.com/problemset/problem/1006/E
-- https://codeforces.com/problemset/problem/246/D
-- https://codeforces.com/problemset/problem/780/C
-- https://codeforces.com/problemset/problem/500/B
-- https://codeforces.com/problemset/problem/939/D
-- https://codeforces.com/problemset/problem/682/C
-- https://codeforces.com/problemset/problem/954/D
-- https://codeforces.com/problemset/problem/659/E
-- https://codeforces.com/problemset/problem/731/C
-- https://codeforces.com/problemset/problem/723/D
-- https://codeforces.com/problemset/problem/1056/D
-- https://codeforces.com/problemset/problem/34/D
-- https://codeforces.com/problemset/problem/689/B
-- https://codeforces.com/problemset/problem/28/B
-- https://codeforces.com/problemset/problem/150/B
-- https://codeforces.com/problemset/problem/131/D
-- https://codeforces.com/problemset/problem/793/B
-- https://codeforces.com/problemset/problem/253/C
-- https://codeforces.com/problemset/problem/1365/D
-- https://codeforces.com/problemset/problem/1037/D
-- https://codeforces.com/problemset/problem/427/C
-- https://codeforces.com/problemset/problem/1144/F
-- https://codeforces.com/problemset/problem/1176/E
-- https://codeforces.com/problemset/problem/598/D
-- https://codeforces.com/problemset/problem/219/D
-- https://codeforces.com/problemset/problem/919/D
-- https://codeforces.com/problemset/problem/1931/F
-- https://codeforces.com/problemset/problem/1406/C
-- https://codeforces.com/problemset/problem/1093/D
-- https://codeforces.com/problemset/problem/1760/G
-- https://codeforces.com/problemset/problem/1209/D
-- https://codeforces.com/problemset/problem/1253/D
-- https://codeforces.com/problemset/problem/1850/H
-- https://codeforces.com/problemset/problem/1881/F
-- https://codeforces.com/problemset/problem/1594/D
-- https://codeforces.com/problemset/problem/2006/A
-- https://codeforces.com/problemset/problem/2112/D
-- https://codeforces.com/problemset/problem/1873/H
-- https://codeforces.com/problemset/problem/1592/C
-- https://codeforces.com/problemset/problem/2110/D
-- https://codeforces.com/problemset/problem/339/C
-- https://codeforces.com/problemset/problem/813/C
-- https://codeforces.com/problemset/problem/1027/D
-- https://codeforces.com/problemset/problem/2118/D1
-- https://codeforces.com/problemset/problem/1411/C
-- https://codeforces.com/problemset/problem/1822/F
-- https://codeforces.com/problemset/problem/2044/G1
-- https://codeforces.com/problemset/problem/1985/H1
-- https://codeforces.com/problemset/problem/2065/F
-- https://codeforces.com/problemset/problem/1608/C
-- https://codeforces.com/problemset/problem/489/D
-- https://codeforces.com/problemset/problem/29/C
-- https://codeforces.com/problemset/problem/1320/B
-- https://codeforces.com/problemset/problem/698/B
-- https://codeforces.com/problemset/problem/2041/D
-- https://codeforces.com/problemset/problem/917/B
-- https://codeforces.com/problemset/problem/283/B
-- https://codeforces.com/problemset/problem/585/B
-- https://codeforces.com/problemset/problem/769/C
-- https://codeforces.com/problemset/problem/164/A
-- https://codeforces.com/problemset/problem/1324/F
-- https://codeforces.com/problemset/problem/242/C
-- https://codeforces.com/problemset/problem/1805/D
-- https://codeforces.com/problemset/problem/2014/E
-- https://codeforces.com/problemset/problem/1768/D
-- https://codeforces.com/problemset/problem/1775/D
-- https://codeforces.com/problemset/problem/2127/D
-- https://codeforces.com/problemset/problem/1552/D
-- https://codeforces.com/problemset/problem/61/D
-- https://codeforces.com/problemset/problem/1872/F
-- https://codeforces.com/problemset/problem/1867/D
-- https://codeforces.com/problemset/problem/1843/F1
-- https://codeforces.com/problemset/problem/1176/D
-- https://codeforces.com/problemset/problem/404/C
-- https://codeforces.com/problemset/problem/2138/C1
-- https://codeforces.com/problemset/problem/1286/B
-- https://codeforces.com/problemset/problem/2208/D1
-- https://codeforces.com/problemset/problem/743/D
-- https://codeforces.com/problemset/problem/700/B
-- https://codeforces.com/problemset/problem/263/D
-- https://codeforces.com/problemset/problem/1062/D
-- https://codeforces.com/problemset/problem/2196/C1
-- https://codeforces.com/problemset/problem/1666/L
-- https://codeforces.com/problemset/problem/1949/I
-- https://codeforces.com/problemset/problem/1067/B
-- https://codeforces.com/problemset/problem/638/C
-- https://codeforces.com/problemset/problem/2045/M
-- https://codeforces.com/problemset/problem/638/D
+- [ ] https://cses.fi/problemset/task/1667
+- [ ] https://cses.fi/problemset/task/1193
+- [ ] https://leetcode.com/problems/number-of-islands/
+- [ ] https://leetcode.com/problems/rotting-oranges/
+- [ ] https://leetcode.com/problems/01-matrix/
+- [ ] https://leetcode.com/problems/shortest-path-in-binary-matrix/
+- [ ] https://leetcode.com/problems/walls-and-gates/
+- [ ] https://leetcode.com/problems/as-far-from-land-as-possible/
+- [ ] https://open.kattis.com/problems/marblemaze
+- [ ] https://open.kattis.com/problems/grid
+- [ ] https://leetcode.com/problems/valid-sudoku/
+- [ ] https://leetcode.com/problems/rotate-image/
+- [ ] https://leetcode.com/problems/spiral-matrix/
+- [ ] https://leetcode.com/problems/spiral-matrix-ii/
+- [ ] https://leetcode.com/problems/unique-paths-ii/
+- [ ] https://leetcode.com/problems/minimum-path-sum/
+- [ ] https://leetcode.com/problems/set-matrix-zeroes/
+- [ ] https://leetcode.com/problems/search-a-2d-matrix/
+- [ ] https://leetcode.com/problems/word-search/
+- [ ] https://leetcode.com/problems/surrounded-regions/
+- [ ] https://leetcode.com/problems/maximal-square/
+- [ ] https://leetcode.com/problems/search-a-2d-matrix-ii/
+- [ ] https://leetcode.com/problems/game-of-life/
+- [ ] https://leetcode.com/problems/range-sum-query-2d-immutable/
+- [ ] https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+- [ ] https://leetcode.com/problems/pacific-atlantic-water-flow/
+- [ ] https://leetcode.com/problems/battleships-in-a-board/
+- [ ] https://leetcode.com/problems/construct-quad-tree/
+- [ ] https://leetcode.com/problems/diagonal-traverse/
+- [ ] https://leetcode.com/problems/minesweeper/
+- [ ] https://leetcode.com/problems/max-area-of-island/
+- [ ] https://leetcode.com/problems/valid-tic-tac-toe-state/
+- [ ] https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+- [ ] https://leetcode.com/problems/image-overlap/
+- [ ] https://leetcode.com/problems/magic-squares-in-grid/
+- [ ] https://leetcode.com/problems/score-after-flipping-matrix/
+- [ ] https://leetcode.com/problems/spiral-matrix-iii/
+- [ ] https://leetcode.com/problems/snakes-and-ladders/
+- [ ] https://leetcode.com/problems/minimum-falling-path-sum/
+- [ ] https://leetcode.com/problems/shortest-bridge/
+- [ ] https://leetcode.com/problems/regions-cut-by-slashes/
+- [ ] https://leetcode.com/problems/number-of-enclaves/
+- [ ] https://leetcode.com/problems/coloring-a-border/
+- [ ] https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/
+- [ ] https://leetcode.com/problems/largest-1-bordered-square/
+- [ ] https://leetcode.com/problems/path-with-maximum-gold/
+- [ ] https://leetcode.com/problems/queens-that-can-attack-the-king/
+- [ ] https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
+- [ ] https://leetcode.com/problems/number-of-closed-islands/
+- [ ] https://leetcode.com/problems/count-servers-that-communicate/
+- [ ] https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+- [ ] https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+- [ ] https://leetcode.com/problems/matrix-block-sum/
+- [ ] https://leetcode.com/problems/sort-the-matrix-diagonally/
+- [ ] https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+- [ ] https://leetcode.com/problems/subrectangle-queries/
+- [ ] https://leetcode.com/problems/count-submatrices-with-all-ones/
+- [ ] https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
+- [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
+- [ ] https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+- [ ] https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+- [ ] https://leetcode.com/problems/path-with-minimum-effort/
+- [ ] https://leetcode.com/problems/where-will-the-ball-fall/
+- [ ] https://leetcode.com/problems/largest-submatrix-with-rearrangements/
+- [ ] https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
+- [ ] https://leetcode.com/problems/map-of-highest-peak/
+- [ ] https://leetcode.com/problems/rotating-the-box/
+- [ ] https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
+- [ ] https://leetcode.com/problems/largest-magic-square/
+- [ ] https://leetcode.com/problems/find-a-peak-element-ii/
+- [ ] https://leetcode.com/problems/count-sub-islands/
+- [ ] https://leetcode.com/problems/cyclically-rotating-a-grid/
+- [ ] https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+- [ ] https://leetcode.com/problems/maximum-number-of-points-with-cost/
+- [ ] https://leetcode.com/problems/check-if-move-is-legal/
+- [ ] https://leetcode.com/problems/maximum-matrix-sum/
+- [ ] https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/
+- [ ] https://leetcode.com/problems/find-all-groups-of-farmland/
+- [ ] https://leetcode.com/problems/grid-game/
+- [ ] https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/
+- [ ] https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+- [ ] https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+- [ ] https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/
+- [ ] https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/
+- [ ] https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
+- [ ] https://leetcode.com/problems/minimum-path-cost-in-a-grid/
+- [ ] https://leetcode.com/problems/spiral-matrix-iv/
+- [ ] https://leetcode.com/problems/equal-row-and-column-pairs/
+- [ ] https://leetcode.com/problems/maximum-rows-covered-by-columns/
+- [ ] https://leetcode.com/problems/maximum-sum-of-an-hourglass/
+- [ ] https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
+- [ ] https://leetcode.com/problems/increment-submatrices-by-one/
+- [ ] https://leetcode.com/problems/sort-the-students-by-their-kth-score/
+- [ ] https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/
+- [ ] https://leetcode.com/problems/check-knight-tour-configuration/
+- [ ] https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/
+- [ ] https://leetcode.com/problems/first-completely-painted-row-or-column/
+- [ ] https://leetcode.com/problems/sum-in-a-matrix/
+- [ ] https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/
+- [ ] https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/
+- [ ] https://leetcode.com/problems/find-the-safest-path-in-a-grid/
+- [ ] https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/
+- [ ] https://leetcode.com/problems/construct-product-matrix/
+- [ ] https://leetcode.com/problems/find-the-grid-of-region-average/
+- [ ] https://leetcode.com/problems/most-frequent-prime/
+- [ ] https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/
+- [ ] https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/
+- [ ] https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/
+- [ ] https://leetcode.com/problems/maximum-difference-score-in-a-grid/
+- [ ] https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
+- [ ] https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/
+- [ ] https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/
+- [ ] https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/
+- [ ] https://leetcode.com/problems/find-a-safe-walk-through-a-grid/
+- [ ] https://leetcode.com/problems/maximum-points-tourist-can-earn/
+- [ ] https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/
+- [ ] https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
+- [ ] https://leetcode.com/problems/count-paths-with-the-given-xor-value/
+- [ ] https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/
+- [ ] https://leetcode.com/problems/sort-matrix-by-diagonals/
+- [ ] https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/
+- [ ] https://leetcode.com/problems/design-spreadsheet/
+- [ ] https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/
+- [ ] https://leetcode.com/problems/fill-a-special-grid/
+- [ ] https://leetcode.com/problems/equal-sum-grid-partition-i/
+- [ ] https://leetcode.com/problems/grid-teleportation-traversal/
+- [ ] https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/
+- [ ] https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+- [ ] https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/
+- [ ] https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
+- [ ] https://leetcode.com/problems/twisted-mirror-path-count/
+- [ ] https://leetcode.com/problems/maximum-path-score-in-a-grid/
+- [ ] https://leetcode.com/problems/minimum-bitwise-or-from-grid/
+- [ ] https://leetcode.com/problems/minimum-xor-path-in-a-grid/
+- [ ] https://leetcode.com/problems/multi-source-flood-fill/
+- [ ] https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/
+- [ ] https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/
+- [ ] https://leetcode.com/problems/maximize-sum-of-device-ratings/
+- [ ] https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/
+- [ ] https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/
+- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/
+- [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+- [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+- [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+- [ ] https://leetcode.com/problems/clone-graph/
+- [ ] https://leetcode.com/problems/binary-tree-right-side-view/
+- [ ] https://leetcode.com/problems/course-schedule/
+- [ ] https://leetcode.com/problems/course-schedule-ii/
+- [ ] https://leetcode.com/problems/perfect-squares/
+- [ ] https://leetcode.com/problems/minimum-height-trees/
+- [ ] https://leetcode.com/problems/coin-change/
+- [ ] https://leetcode.com/problems/water-and-jug-problem/
+- [ ] https://leetcode.com/problems/evaluate-division/
+- [ ] https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+- [ ] https://leetcode.com/problems/minimum-genetic-mutation/
+- [ ] https://leetcode.com/problems/serialize-and-deserialize-bst/
+- [ ] https://leetcode.com/problems/find-bottom-left-tree-value/
+- [ ] https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+- [ ] https://leetcode.com/problems/number-of-provinces/
+- [ ] https://leetcode.com/problems/add-one-row-to-tree/
+- [ ] https://leetcode.com/problems/print-binary-tree/
+- [ ] https://leetcode.com/problems/maximum-width-of-binary-tree/
+- [ ] https://leetcode.com/problems/bulb-switcher-ii/
+- [ ] https://leetcode.com/problems/redundant-connection/
+- [ ] https://leetcode.com/problems/employee-importance/
+- [ ] https://leetcode.com/problems/accounts-merge/
+- [ ] https://leetcode.com/problems/network-delay-time/
+- [ ] https://leetcode.com/problems/open-the-lock/
+- [ ] https://leetcode.com/problems/is-graph-bipartite/
+- [ ] https://leetcode.com/problems/cheapest-flights-within-k-stops/
+- [ ] https://leetcode.com/problems/all-paths-from-source-to-target/
+- [ ] https://leetcode.com/problems/find-eventual-safe-states/
+- [ ] https://leetcode.com/problems/keys-and-rooms/
+- [ ] https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+- [ ] https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+- [ ] https://leetcode.com/problems/possible-bipartition/
+- [ ] https://leetcode.com/problems/complete-binary-tree-inserter/
+- [ ] https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+- [ ] https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+- [ ] https://leetcode.com/problems/flower-planting-with-no-adjacent/
+- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+- [ ] https://leetcode.com/problems/shortest-path-with-alternating-colors/
+- [ ] https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+- [ ] https://leetcode.com/problems/smallest-string-with-swaps/
+- [ ] https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+- [ ] https://leetcode.com/problems/deepest-leaves-sum/
+- [ ] https://leetcode.com/problems/jump-game-iii/
+- [ ] https://leetcode.com/problems/get-watched-videos-by-your-friends/
+- [ ] https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+- [ ] https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+- [ ] https://leetcode.com/problems/validate-binary-tree-nodes/
+- [ ] https://leetcode.com/problems/time-needed-to-inform-all-employees/
+- [ ] https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+- [ ] https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+- [ ] https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+- [ ] https://leetcode.com/problems/course-schedule-iv/
+- [ ] https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+- [ ] https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
+- [ ] https://leetcode.com/problems/even-odd-tree/
+- [ ] https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+- [ ] https://leetcode.com/problems/minimum-jumps-to-reach-home/
+- [ ] https://leetcode.com/problems/operations-on-tree/
+- [ ] https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
+- [ ] https://leetcode.com/problems/minimum-operations-to-convert-number/
+- [ ] https://leetcode.com/problems/detonate-the-maximum-bombs/
+- [ ] https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
+- [ ] https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
+- [ ] https://leetcode.com/problems/reachable-nodes-with-restrictions/
+- [ ] https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
+- [ ] https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
+- [ ] https://leetcode.com/problems/most-profitable-path-in-a-tree/
+- [ ] https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
+- [ ] https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
+- [ ] https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
+- [ ] https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
+- [ ] https://leetcode.com/problems/cousins-in-binary-tree-ii/
+- [ ] https://leetcode.com/problems/count-the-number-of-complete-components/
+- [ ] https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/
+- [ ] https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/
+- [ ] https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/
+- [ ] https://leetcode.com/problems/remove-methods-from-project/
+- [ ] https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/
+- [ ] https://leetcode.com/problems/minimum-time-to-break-locks-i/
+- [ ] https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/
+- [ ] https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/
+- [ ] https://leetcode.com/problems/properties-graph/
+- [ ] https://leetcode.com/problems/unit-conversion-i/
+- [ ] https://leetcode.com/problems/power-grid-maintenance/
+- [ ] https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
+- [ ] https://leetcode.com/problems/split-and-merge-array-transformation/
+- [ ] https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/
+- [ ] https://codeforces.com/problemset/problem/893/C
+- [ ] https://codeforces.com/problemset/problem/862/B
+- [ ] https://codeforces.com/problemset/problem/1676/G
+- [ ] https://codeforces.com/problemset/problem/1829/F
+- [ ] https://codeforces.com/problemset/problem/1948/C
+- [ ] https://codeforces.com/problemset/problem/1661/B
+- [ ] https://codeforces.com/problemset/problem/1741/D
+- [ ] https://codeforces.com/problemset/problem/2056/B
+- [ ] https://codeforces.com/problemset/problem/1968/D
+- [ ] https://codeforces.com/problemset/problem/2086/C
+- [ ] https://codeforces.com/problemset/problem/755/C
+- [ ] https://codeforces.com/problemset/problem/2143/C
+- [ ] https://codeforces.com/problemset/problem/520/B
+- [ ] https://codeforces.com/problemset/problem/1167/C
+- [ ] https://codeforces.com/problemset/problem/1830/A
+- [ ] https://codeforces.com/problemset/problem/505/B
+- [ ] https://codeforces.com/problemset/problem/1893/A
+- [ ] https://codeforces.com/problemset/problem/2033/E
+- [ ] https://codeforces.com/problemset/problem/1670/C
+- [ ] https://codeforces.com/problemset/problem/1735/C
+- [ ] https://codeforces.com/problemset/problem/1761/C
+- [ ] https://codeforces.com/problemset/problem/2204/D
+- [ ] https://codeforces.com/problemset/problem/2034/C
+- [ ] https://codeforces.com/problemset/problem/475/B
+- [ ] https://codeforces.com/problemset/problem/802/J1
+- [ ] https://codeforces.com/problemset/problem/107/A
+- [ ] https://codeforces.com/problemset/problem/580/C
+- [ ] https://codeforces.com/problemset/problem/977/E
+- [ ] https://codeforces.com/problemset/problem/839/C
+- [ ] https://codeforces.com/problemset/problem/1106/D
+- [ ] https://codeforces.com/problemset/problem/771/A
+- [ ] https://codeforces.com/problemset/problem/1139/C
+- [ ] https://codeforces.com/problemset/problem/982/C
+- [ ] https://codeforces.com/problemset/problem/687/A
+- [ ] https://codeforces.com/problemset/problem/1263/D
+- [ ] https://codeforces.com/problemset/problem/1800/E2
+- [ ] https://codeforces.com/problemset/problem/1487/C
+- [ ] https://codeforces.com/problemset/problem/2027/C
+- [ ] https://codeforces.com/problemset/problem/1851/E
+- [ ] https://codeforces.com/problemset/problem/2060/E
+- [ ] https://codeforces.com/problemset/problem/103/B
+- [ ] https://codeforces.com/problemset/problem/744/A
+- [ ] https://codeforces.com/problemset/problem/930/A
+- [ ] https://codeforces.com/problemset/problem/574/B
+- [ ] https://codeforces.com/problemset/problem/320/B
+- [ ] https://codeforces.com/problemset/problem/300/B
+- [ ] https://codeforces.com/problemset/problem/690/C2
+- [ ] https://codeforces.com/problemset/problem/177/C2
+- [ ] https://codeforces.com/problemset/problem/177/C1
+- [ ] https://codeforces.com/problemset/problem/770/C
+- [ ] https://codeforces.com/problemset/problem/510/C
+- [ ] https://codeforces.com/problemset/problem/1833/E
+- [ ] https://codeforces.com/problemset/problem/1702/E
+- [ ] https://codeforces.com/problemset/problem/2063/C
+- [ ] https://codeforces.com/problemset/problem/369/C
+- [ ] https://codeforces.com/problemset/problem/763/A
+- [ ] https://codeforces.com/problemset/problem/1006/E
+- [ ] https://codeforces.com/problemset/problem/246/D
+- [ ] https://codeforces.com/problemset/problem/780/C
+- [ ] https://codeforces.com/problemset/problem/500/B
+- [ ] https://codeforces.com/problemset/problem/939/D
+- [ ] https://codeforces.com/problemset/problem/682/C
+- [ ] https://codeforces.com/problemset/problem/954/D
+- [ ] https://codeforces.com/problemset/problem/659/E
+- [ ] https://codeforces.com/problemset/problem/731/C
+- [ ] https://codeforces.com/problemset/problem/723/D
+- [ ] https://codeforces.com/problemset/problem/1056/D
+- [ ] https://codeforces.com/problemset/problem/34/D
+- [ ] https://codeforces.com/problemset/problem/689/B
+- [ ] https://codeforces.com/problemset/problem/28/B
+- [ ] https://codeforces.com/problemset/problem/150/B
+- [ ] https://codeforces.com/problemset/problem/131/D
+- [ ] https://codeforces.com/problemset/problem/793/B
+- [ ] https://codeforces.com/problemset/problem/253/C
+- [ ] https://codeforces.com/problemset/problem/1365/D
+- [ ] https://codeforces.com/problemset/problem/1037/D
+- [ ] https://codeforces.com/problemset/problem/427/C
+- [ ] https://codeforces.com/problemset/problem/1144/F
+- [ ] https://codeforces.com/problemset/problem/1176/E
+- [ ] https://codeforces.com/problemset/problem/598/D
+- [ ] https://codeforces.com/problemset/problem/219/D
+- [ ] https://codeforces.com/problemset/problem/919/D
+- [ ] https://codeforces.com/problemset/problem/1931/F
+- [ ] https://codeforces.com/problemset/problem/1406/C
+- [ ] https://codeforces.com/problemset/problem/1093/D
+- [ ] https://codeforces.com/problemset/problem/1760/G
+- [ ] https://codeforces.com/problemset/problem/1209/D
+- [ ] https://codeforces.com/problemset/problem/1253/D
+- [ ] https://codeforces.com/problemset/problem/1850/H
+- [ ] https://codeforces.com/problemset/problem/1881/F
+- [ ] https://codeforces.com/problemset/problem/1594/D
+- [ ] https://codeforces.com/problemset/problem/2006/A
+- [ ] https://codeforces.com/problemset/problem/2112/D
+- [ ] https://codeforces.com/problemset/problem/1873/H
+- [ ] https://codeforces.com/problemset/problem/1592/C
+- [ ] https://codeforces.com/problemset/problem/2110/D
+- [ ] https://codeforces.com/problemset/problem/339/C
+- [ ] https://codeforces.com/problemset/problem/813/C
+- [ ] https://codeforces.com/problemset/problem/1027/D
+- [ ] https://codeforces.com/problemset/problem/2118/D1
+- [ ] https://codeforces.com/problemset/problem/1411/C
+- [ ] https://codeforces.com/problemset/problem/1822/F
+- [ ] https://codeforces.com/problemset/problem/2044/G1
+- [ ] https://codeforces.com/problemset/problem/1985/H1
+- [ ] https://codeforces.com/problemset/problem/2065/F
+- [ ] https://codeforces.com/problemset/problem/1608/C
+- [ ] https://codeforces.com/problemset/problem/489/D
+- [ ] https://codeforces.com/problemset/problem/29/C
+- [ ] https://codeforces.com/problemset/problem/1320/B
+- [ ] https://codeforces.com/problemset/problem/698/B
+- [ ] https://codeforces.com/problemset/problem/2041/D
+- [ ] https://codeforces.com/problemset/problem/917/B
+- [ ] https://codeforces.com/problemset/problem/283/B
+- [ ] https://codeforces.com/problemset/problem/585/B
+- [ ] https://codeforces.com/problemset/problem/769/C
+- [ ] https://codeforces.com/problemset/problem/164/A
+- [ ] https://codeforces.com/problemset/problem/1324/F
+- [ ] https://codeforces.com/problemset/problem/242/C
+- [ ] https://codeforces.com/problemset/problem/1805/D
+- [ ] https://codeforces.com/problemset/problem/2014/E
+- [ ] https://codeforces.com/problemset/problem/1768/D
+- [ ] https://codeforces.com/problemset/problem/1775/D
+- [ ] https://codeforces.com/problemset/problem/2127/D
+- [ ] https://codeforces.com/problemset/problem/1552/D
+- [ ] https://codeforces.com/problemset/problem/61/D
+- [ ] https://codeforces.com/problemset/problem/1872/F
+- [ ] https://codeforces.com/problemset/problem/1867/D
+- [ ] https://codeforces.com/problemset/problem/1843/F1
+- [ ] https://codeforces.com/problemset/problem/1176/D
+- [ ] https://codeforces.com/problemset/problem/404/C
+- [ ] https://codeforces.com/problemset/problem/2138/C1
+- [ ] https://codeforces.com/problemset/problem/1286/B
+- [ ] https://codeforces.com/problemset/problem/2208/D1
+- [ ] https://codeforces.com/problemset/problem/743/D
+- [ ] https://codeforces.com/problemset/problem/700/B
+- [ ] https://codeforces.com/problemset/problem/263/D
+- [ ] https://codeforces.com/problemset/problem/1062/D
+- [ ] https://codeforces.com/problemset/problem/2196/C1
+- [ ] https://codeforces.com/problemset/problem/1666/L
+- [ ] https://codeforces.com/problemset/problem/1949/I
+- [ ] https://codeforces.com/problemset/problem/1067/B
+- [ ] https://codeforces.com/problemset/problem/638/C
+- [ ] https://codeforces.com/problemset/problem/2045/M
+- [ ] https://codeforces.com/problemset/problem/638/D
 
 ## Hard
-- https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
-- https://leetcode.com/problems/trapping-rain-water-ii/
-- https://open.kattis.com/problems/gridmagic
-- https://open.kattis.com/problems/mazemovement
-- https://open.kattis.com/problems/mazemakers
-- https://open.kattis.com/problems/breakmaze
-- https://leetcode.com/problems/sudoku-solver/
-- https://leetcode.com/problems/maximal-rectangle/
-- https://leetcode.com/problems/dungeon-game/
-- https://leetcode.com/problems/word-search-ii/
-- https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
-- https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
-- https://leetcode.com/problems/cut-off-trees-for-golf-event/
-- https://leetcode.com/problems/cherry-pickup/
-- https://leetcode.com/problems/contain-virus/
-- https://leetcode.com/problems/sliding-puzzle/
-- https://leetcode.com/problems/swim-in-rising-water/
-- https://leetcode.com/problems/transform-to-chessboard/
-- https://leetcode.com/problems/bricks-falling-when-hit/
-- https://leetcode.com/problems/making-a-large-island/
-- https://leetcode.com/problems/shortest-path-to-get-all-keys/
-- https://leetcode.com/problems/unique-paths-iii/
-- https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
-- https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
-- https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
-- https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
-- https://leetcode.com/problems/minimum-falling-path-sum-ii/
-- https://leetcode.com/problems/number-of-paths-with-max-score/
-- https://leetcode.com/problems/maximum-students-taking-exam/
-- https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
-- https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
-- https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
-- https://leetcode.com/problems/cherry-pickup-ii/
-- https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
-- https://leetcode.com/problems/strange-printer-ii/
-- https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
-- https://leetcode.com/problems/rank-transform-of-a-matrix/
-- https://leetcode.com/problems/cat-and-mouse-ii/
-- https://leetcode.com/problems/last-day-where-you-can-still-cross/
-- https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
-- https://leetcode.com/problems/stamping-the-grid/
-- https://leetcode.com/problems/escape-the-spreading-fire/
-- https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/
-- https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
-- https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
-- https://leetcode.com/problems/build-a-matrix-with-conditions/
-- https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
-- https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
-- https://leetcode.com/problems/find-the-string-with-lcp/
-- https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/
-- https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/
-- https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/
-- https://leetcode.com/problems/find-a-good-subset-of-the-matrix/
-- https://leetcode.com/problems/maximum-spending-after-buying-items/
-- https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/
-- https://leetcode.com/problems/maximum-score-from-grid-operations/
-- https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/
-- https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/
-- https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/
-- https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/
-- https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/
-- https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/
-- https://leetcode.com/problems/equal-sum-grid-partition-ii/
-- https://leetcode.com/problems/minimum-cost-path-with-teleportations/
-- https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/
-- https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid/
-- https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/
-- https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/
-- https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/
-- https://leetcode.com/problems/word-ladder-ii/
-- https://leetcode.com/problems/word-ladder/
-- https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-- https://leetcode.com/problems/remove-invalid-parentheses/
-- https://leetcode.com/problems/zuma-game/
-- https://leetcode.com/problems/freedom-trail/
-- https://leetcode.com/problems/redundant-connection-ii/
-- https://leetcode.com/problems/couples-holding-hands/
-- https://leetcode.com/problems/bus-routes/
-- https://leetcode.com/problems/similar-string-groups/
-- https://leetcode.com/problems/shortest-path-visiting-all-nodes/
-- https://leetcode.com/problems/k-similar-strings/
-- https://leetcode.com/problems/minimize-malware-spread/
-- https://leetcode.com/problems/minimize-malware-spread-ii/
-- https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
-- https://leetcode.com/problems/escape-a-large-maze/
-- https://leetcode.com/problems/brace-expansion-ii/
-- https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
-- https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
-- https://leetcode.com/problems/jump-game-iv/
-- https://leetcode.com/problems/frog-position-after-t-seconds/
-- https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
-- https://leetcode.com/problems/second-minimum-time-to-reach-destination/
-- https://leetcode.com/problems/find-all-people-with-secret/
-- https://leetcode.com/problems/longest-cycle-in-a-graph/
-- https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/
-- https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/
-- https://leetcode.com/problems/shortest-cycle-in-a-graph/
-- https://leetcode.com/problems/minimum-reverse-operations/
-- https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/
-- https://leetcode.com/problems/find-edges-in-shortest-paths/
-- https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
-- https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/
-- https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/
-- https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/
-- https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
-- https://leetcode.com/problems/maximum-partition-factor/
-- https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/
-- https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/
+- [ ] https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+- [ ] https://leetcode.com/problems/trapping-rain-water-ii/
+- [ ] https://open.kattis.com/problems/gridmagic
+- [ ] https://open.kattis.com/problems/mazemovement
+- [ ] https://open.kattis.com/problems/mazemakers
+- [ ] https://open.kattis.com/problems/breakmaze
+- [ ] https://leetcode.com/problems/sudoku-solver/
+- [ ] https://leetcode.com/problems/maximal-rectangle/
+- [ ] https://leetcode.com/problems/dungeon-game/
+- [ ] https://leetcode.com/problems/word-search-ii/
+- [ ] https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+- [ ] https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+- [ ] https://leetcode.com/problems/cut-off-trees-for-golf-event/
+- [ ] https://leetcode.com/problems/cherry-pickup/
+- [ ] https://leetcode.com/problems/contain-virus/
+- [ ] https://leetcode.com/problems/sliding-puzzle/
+- [ ] https://leetcode.com/problems/swim-in-rising-water/
+- [ ] https://leetcode.com/problems/transform-to-chessboard/
+- [ ] https://leetcode.com/problems/bricks-falling-when-hit/
+- [ ] https://leetcode.com/problems/making-a-large-island/
+- [ ] https://leetcode.com/problems/shortest-path-to-get-all-keys/
+- [ ] https://leetcode.com/problems/unique-paths-iii/
+- [ ] https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+- [ ] https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+- [ ] https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
+- [ ] https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+- [ ] https://leetcode.com/problems/minimum-falling-path-sum-ii/
+- [ ] https://leetcode.com/problems/number-of-paths-with-max-score/
+- [ ] https://leetcode.com/problems/maximum-students-taking-exam/
+- [ ] https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+- [ ] https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
+- [ ] https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+- [ ] https://leetcode.com/problems/cherry-pickup-ii/
+- [ ] https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
+- [ ] https://leetcode.com/problems/strange-printer-ii/
+- [ ] https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+- [ ] https://leetcode.com/problems/rank-transform-of-a-matrix/
+- [ ] https://leetcode.com/problems/cat-and-mouse-ii/
+- [ ] https://leetcode.com/problems/last-day-where-you-can-still-cross/
+- [ ] https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
+- [ ] https://leetcode.com/problems/stamping-the-grid/
+- [ ] https://leetcode.com/problems/escape-the-spreading-fire/
+- [ ] https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/
+- [ ] https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
+- [ ] https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
+- [ ] https://leetcode.com/problems/build-a-matrix-with-conditions/
+- [ ] https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
+- [ ] https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
+- [ ] https://leetcode.com/problems/find-the-string-with-lcp/
+- [ ] https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/
+- [ ] https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/
+- [ ] https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/
+- [ ] https://leetcode.com/problems/find-a-good-subset-of-the-matrix/
+- [ ] https://leetcode.com/problems/maximum-spending-after-buying-items/
+- [ ] https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/
+- [ ] https://leetcode.com/problems/maximum-score-from-grid-operations/
+- [ ] https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/
+- [ ] https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/
+- [ ] https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/
+- [ ] https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/
+- [ ] https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/
+- [ ] https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/
+- [ ] https://leetcode.com/problems/equal-sum-grid-partition-ii/
+- [ ] https://leetcode.com/problems/minimum-cost-path-with-teleportations/
+- [ ] https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/
+- [ ] https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid/
+- [ ] https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/
+- [ ] https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/
+- [ ] https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/
+- [ ] https://leetcode.com/problems/word-ladder-ii/
+- [ ] https://leetcode.com/problems/word-ladder/
+- [ ] https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- [ ] https://leetcode.com/problems/remove-invalid-parentheses/
+- [ ] https://leetcode.com/problems/zuma-game/
+- [ ] https://leetcode.com/problems/freedom-trail/
+- [ ] https://leetcode.com/problems/redundant-connection-ii/
+- [ ] https://leetcode.com/problems/couples-holding-hands/
+- [ ] https://leetcode.com/problems/bus-routes/
+- [ ] https://leetcode.com/problems/similar-string-groups/
+- [ ] https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+- [ ] https://leetcode.com/problems/k-similar-strings/
+- [ ] https://leetcode.com/problems/minimize-malware-spread/
+- [ ] https://leetcode.com/problems/minimize-malware-spread-ii/
+- [ ] https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+- [ ] https://leetcode.com/problems/escape-a-large-maze/
+- [ ] https://leetcode.com/problems/brace-expansion-ii/
+- [ ] https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+- [ ] https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+- [ ] https://leetcode.com/problems/jump-game-iv/
+- [ ] https://leetcode.com/problems/frog-position-after-t-seconds/
+- [ ] https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+- [ ] https://leetcode.com/problems/second-minimum-time-to-reach-destination/
+- [ ] https://leetcode.com/problems/find-all-people-with-secret/
+- [ ] https://leetcode.com/problems/longest-cycle-in-a-graph/
+- [ ] https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/
+- [ ] https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/
+- [ ] https://leetcode.com/problems/shortest-cycle-in-a-graph/
+- [ ] https://leetcode.com/problems/minimum-reverse-operations/
+- [ ] https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/
+- [ ] https://leetcode.com/problems/find-edges-in-shortest-paths/
+- [ ] https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
+- [ ] https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/
+- [ ] https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/
+- [ ] https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/
+- [ ] https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
+- [ ] https://leetcode.com/problems/maximum-partition-factor/
+- [ ] https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/
+- [ ] https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/
