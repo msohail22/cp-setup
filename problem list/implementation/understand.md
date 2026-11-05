@@ -1,22 +1,22 @@
 ## Easy
 
-- [ ] https://open.kattis.com/problems/tilhamingju
-- [ ] https://open.kattis.com/problems/classphoto
-- [ ] https://codeforces.com/problemset/problem/112/A
-- [ ] https://codeforces.com/problemset/problem/158/A
-- [ ] https://codeforces.com/problemset/problem/236/A
-- [ ] https://codeforces.com/problemset/problem/263/A
-- [ ] https://codeforces.com/problemset/problem/281/A
-- [ ] https://codeforces.com/problemset/problem/282/A
-- [ ] https://codeforces.com/problemset/problem/339/A
-- [ ] https://codeforces.com/problemset/problem/791/A
-- [ ] https://open.kattis.com/problems/batterup
-- [ ] https://open.kattis.com/problems/fizzbuzz
-- [ ] https://cses.fi/problemset/task/1068
-- [ ] https://cses.fi/problemset/task/1083
-- [ ] https://cses.fi/problemset/task/1069
-- [ ] https://cses.fi/problemset/task/1094
-- [ ] https://cses.fi/problemset/task/1070
+- [x] https://open.kattis.com/problems/tilhamingju
+- [x] https://open.kattis.com/problems/classphoto
+- [x] https://codeforces.com/problemset/problem/112/A
+- [x] https://codeforces.com/problemset/problem/158/A
+- [x] https://codeforces.com/problemset/problem/236/A
+- [x] https://codeforces.com/problemset/problem/263/A
+- [x] https://codeforces.com/problemset/problem/281/A
+- [x] https://codeforces.com/problemset/problem/282/A
+- [x] https://codeforces.com/problemset/problem/339/A
+- [x] https://codeforces.com/problemset/problem/791/A
+- [x] https://open.kattis.com/problems/batterup
+- [x] https://open.kattis.com/problems/fizzbuzz
+- [x] https://cses.fi/problemset/task/1068
+- [x] https://cses.fi/problemset/task/1083
+- [x] https://cses.fi/problemset/task/1069
+- [x] https://cses.fi/problemset/task/1094
+- [x] https://cses.fi/problemset/task/1070
 - [ ] https://cses.fi/problemset/task/1071
 - [ ] https://cses.fi/problemset/task/1072
 - [ ] https://cses.fi/problemset/task/1092
