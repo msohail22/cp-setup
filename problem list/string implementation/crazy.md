@@ -5,13 +5,13 @@
 - [ ] https://leetcode.com/problems/to-lower-case/
 - [ ] https://leetcode.com/problems/longest-common-prefix/
 - [ ] https://leetcode.com/problems/roman-to-integer/
-- [ ] https://codeforces.com/problemset/problem/112/A
-- [ ] https://codeforces.com/problemset/problem/236/A
-- [ ] https://codeforces.com/problemset/problem/339/A
-- [ ] https://codeforces.com/problemset/problem/281/A
-- [ ] https://codeforces.com/problemset/problem/59/A
-- [ ] https://codeforces.com/problemset/problem/734/A
-- [ ] https://codeforces.com/problemset/problem/41/A
+- [x] https://codeforces.com/problemset/problem/112/A
+- [x] https://codeforces.com/problemset/problem/236/A
+- [x] https://codeforces.com/problemset/problem/339/A
+- [x] https://codeforces.com/problemset/problem/281/A
+- [x] https://codeforces.com/problemset/problem/59/A
+- [x] https://codeforces.com/problemset/problem/734/A
+- [x] https://codeforces.com/problemset/problem/41/A
 - [ ] https://codeforces.com/problemset/problem/520/A
 - [ ] https://leetcode.com/problems/valid-parentheses/
 - [ ] https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
@@ -238,20 +238,20 @@
 - [ ] https://leetcode.com/problems/count-valid-prefixes/
 - [ ] https://leetcode.com/problems/check-ascii-palindromic/
 - [ ] https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/
-- [ ] https://codeforces.com/problemset/problem/71/A
+- [x] https://codeforces.com/problemset/problem/71/A
 - [ ] https://codeforces.com/problemset/problem/785/A
 - [ ] https://codeforces.com/problemset/problem/141/A
 - [ ] https://codeforces.com/problemset/problem/1703/A
 - [ ] https://codeforces.com/problemset/problem/1791/A
 - [ ] https://codeforces.com/problemset/problem/1900/A
-- [ ] https://codeforces.com/problemset/problem/1985/A
-- [ ] https://codeforces.com/problemset/problem/1829/A
-- [ ] https://codeforces.com/problemset/problem/1367/A
+- [x] https://codeforces.com/problemset/problem/1985/A
+- [x] https://codeforces.com/problemset/problem/1829/A
+- [x] https://codeforces.com/problemset/problem/1367/A
 - [ ] https://codeforces.com/problemset/problem/1881/A
 - [ ] https://codeforces.com/problemset/problem/1619/A
 - [ ] https://codeforces.com/problemset/problem/2094/A
 - [ ] https://codeforces.com/problemset/problem/2065/A
-- [ ] https://codeforces.com/problemset/problem/2167/B
+- [x] https://codeforces.com/problemset/problem/2167/B
 - [ ] https://codeforces.com/problemset/problem/1850/C
 - [ ] https://codeforces.com/problemset/problem/1760/B
 - [ ] https://codeforces.com/problemset/problem/731/A
@@ -398,7 +398,7 @@
 - [ ] https://codeforces.com/problemset/problem/868/A
 - [ ] https://codeforces.com/problemset/problem/747/B
 - [ ] https://codeforces.com/problemset/problem/729/A
-- [ ] https://codeforces.com/problemset/problem/118/A
+- [x] https://codeforces.com/problemset/problem/118/A
 - [ ] https://codeforces.com/problemset/problem/58/A
 - [ ] https://codeforces.com/problemset/problem/131/A
 - [ ] https://codeforces.com/problemset/problem/43/A

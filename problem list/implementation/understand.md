@@ -32,7 +32,7 @@
 - [ ] https://cses.fi/problemset/task/1625
 - [ ] https://open.kattis.com/problems/bestrelayteam
 - [ ] https://codeforces.com/problemset/problem/96/A
-- [ ] https://codeforces.com/problemset/problem/133/A
+- [x] https://codeforces.com/problemset/problem/133/A
 - [ ] https://codeforces.com/problemset/problem/405/A
 - [ ] https://codeforces.com/problemset/problem/580/A
 - [ ] https://leetcode.com/problems/add-binary/
@@ -43,8 +43,8 @@
 - [ ] https://leetcode.com/problems/reshape-the-matrix/
 - [ ] https://leetcode.com/problems/robot-return-to-origin/
 - [ ] https://leetcode.com/problems/baseball-game/
-- [ ] https://codeforces.com/problemset/problem/69/A
-- [ ] https://codeforces.com/problemset/problem/118/A
+- [x] https://codeforces.com/problemset/problem/69/A
+- [x] https://codeforces.com/problemset/problem/118/A
 - [ ] https://open.kattis.com/problems/tictactoesolver
 - [ ] https://codeforces.com/problemset/problem/466/A
 - [ ] https://codeforces.com/problemset/problem/492/B

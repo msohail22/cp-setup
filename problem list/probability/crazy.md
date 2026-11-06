@@ -1,5 +1,5 @@
 ## Easy
-- [ ] https://codeforces.com/problemset/problem/9/A
+- [x] https://codeforces.com/problemset/problem/9/A
 - [ ] https://codeforces.com/problemset/problem/1454/A
 - [ ] https://codeforces.com/problemset/problem/1459/A
 - [ ] https://codeforces.com/problemset/problem/1788/B

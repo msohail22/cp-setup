@@ -4,7 +4,7 @@
 - [ ] https://leetcode.com/problems/add-digits/
 - [ ] https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 - [ ] https://codeforces.com/problemset/problem/1899/A
-- [ ] https://codeforces.com/problemset/problem/472/A
+- [x] https://codeforces.com/problemset/problem/472/A
 - [ ] https://codeforces.com/problemset/problem/1370/A
 - [ ] https://codeforces.com/problemset/problem/1859/A
 - [ ] https://codeforces.com/problemset/problem/749/A

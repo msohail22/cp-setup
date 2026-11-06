@@ -49,11 +49,11 @@
 - [ ] https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/
 - [ ] https://leetcode.com/problems/maximize-expression-of-three-elements/
 - [ ] https://leetcode.com/problems/largest-integer-with-given-digit-sum/
-- [ ] https://codeforces.com/problemset/problem/339/A
+- [x] https://codeforces.com/problemset/problem/339/A
 - [ ] https://codeforces.com/problemset/problem/1903/A
 - [ ] https://codeforces.com/problemset/problem/1399/A
-- [ ] https://codeforces.com/problemset/problem/490/A
-- [ ] https://codeforces.com/problemset/problem/432/A
+- [x] https://codeforces.com/problemset/problem/490/A
+- [x] https://codeforces.com/problemset/problem/432/A
 - [ ] https://codeforces.com/problemset/problem/1742/B
 - [ ] https://codeforces.com/problemset/problem/1676/B
 - [ ] https://codeforces.com/problemset/problem/1353/B

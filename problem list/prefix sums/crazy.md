@@ -22,7 +22,7 @@
 - [ ] https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 - [ ] https://leetcode.com/problems/equal-score-substrings/
 - [ ] https://leetcode.com/problems/smallest-stable-index-i/
-- [ ] https://codeforces.com/problemset/problem/1703/B
+- [x] https://codeforces.com/problemset/problem/1703/B
 - [ ] https://codeforces.com/problemset/problem/1760/C
 - [ ] https://codeforces.com/problemset/problem/1722/C
 - [ ] https://codeforces.com/problemset/problem/1714/B

@@ -1,11 +1,11 @@
 ## Easy
 
-- [ ] https://codeforces.com/problemset/problem/112/A
-- [ ] https://codeforces.com/problemset/problem/158/A
-- [ ] https://codeforces.com/problemset/problem/236/A
-- [ ] https://codeforces.com/problemset/problem/263/A
-- [ ] https://codeforces.com/problemset/problem/282/A
-- [ ] https://codeforces.com/problemset/problem/339/A
+- [x] https://codeforces.com/problemset/problem/112/A
+- [x] https://codeforces.com/problemset/problem/158/A
+- [x] https://codeforces.com/problemset/problem/236/A
+- [x] https://codeforces.com/problemset/problem/263/A
+- [x] https://codeforces.com/problemset/problem/282/A
+- [x] https://codeforces.com/problemset/problem/339/A
 - [ ] https://cses.fi/problemset/task/1621
 - [ ] https://cses.fi/problemset/task/1084
 - [ ] https://cses.fi/problemset/task/1090
@@ -34,8 +34,8 @@
 - [ ] https://leetcode.com/problems/maximum-average-subarray-i/
 - [ ] https://leetcode.com/problems/find-pivot-index/
 - [ ] https://leetcode.com/problems/running-sum-of-1d-array/
-- [ ] https://codeforces.com/problemset/problem/69/A
-- [ ] https://codeforces.com/problemset/problem/118/A
+- [x] https://codeforces.com/problemset/problem/69/A
+- [x] https://codeforces.com/problemset/problem/118/A
 - [ ] https://codeforces.com/problemset/problem/131/A
 - [ ] https://codeforces.com/problemset/problem/158/B
 - [ ] https://codeforces.com/problemset/problem/492/B

@@ -23,7 +23,7 @@
 - [ ] https://leetcode.com/problems/reverse-prefix-of-word/
 - [ ] https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 - [ ] https://leetcode.com/problems/clear-digits/
-- [ ] https://codeforces.com/problemset/problem/1703/B
+- [x] https://codeforces.com/problemset/problem/1703/B
 - [ ] https://codeforces.com/problemset/problem/1760/C
 - [ ] https://codeforces.com/problemset/problem/1722/C
 - [ ] https://codeforces.com/problemset/problem/1714/B

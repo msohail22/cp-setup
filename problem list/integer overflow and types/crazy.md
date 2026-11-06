@@ -1,14 +1,14 @@
 ## Easy
 
 - [ ] https://codeforces.com/problemset/problem/92/A
-- [ ] https://codeforces.com/problemset/problem/148/A
+- [x] https://codeforces.com/problemset/problem/148/A
 - [ ] https://codeforces.com/problemset/problem/151/A
 - [ ] https://codeforces.com/problemset/problem/200/B
 - [ ] https://codeforces.com/problemset/problem/233/A
 - [ ] https://codeforces.com/problemset/problem/294/A
 - [ ] https://codeforces.com/problemset/problem/401/A
-- [ ] https://codeforces.com/problemset/problem/486/A
-- [ ] https://codeforces.com/problemset/problem/546/A
+- [x] https://codeforces.com/problemset/problem/486/A
+- [x] https://codeforces.com/problemset/problem/546/A
 - [ ] https://codeforces.com/problemset/problem/581/A
 - [ ] https://codeforces.com/problemset/problem/620/A
 - [ ] https://codeforces.com/problemset/problem/678/A
@@ -105,7 +105,7 @@
 - [ ] https://codeforces.com/problemset/problem/2103/A
 - [ ] https://codeforces.com/problemset/problem/2111/A
 - [ ] https://codeforces.com/problemset/problem/2112/A
-- [ ] https://codeforces.com/problemset/problem/2126/A
+- [x] https://codeforces.com/problemset/problem/2126/A
 - [ ] https://codeforces.com/problemset/problem/2133/A
 - [ ] https://codeforces.com/problemset/problem/2134/A
 - [ ] https://codeforces.com/problemset/problem/2155/A
@@ -329,7 +329,7 @@
 - [ ] https://leetcode.com/problems/maximize-pair-strength-using-gcd/
 - [ ] https://leetcode.com/problems/minimum-queen-moves-to-reach-target/
 - [ ] https://codeforces.com/problemset/problem/13/A
-- [ ] https://codeforces.com/problemset/problem/69/A
+- [x] https://codeforces.com/problemset/problem/69/A
 - [ ] https://codeforces.com/problemset/problem/120/A
 - [ ] https://codeforces.com/problemset/problem/221/A
 - [ ] https://codeforces.com/problemset/problem/268/B

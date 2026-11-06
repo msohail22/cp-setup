@@ -1,7 +1,7 @@
 ## Easy
 - [ ] https://codeforces.com/problemset/problem/266/B
-- [ ] https://codeforces.com/problemset/problem/443/A
-- [ ] https://codeforces.com/problemset/problem/148/A
+- [x] https://codeforces.com/problemset/problem/443/A
+- [x] https://codeforces.com/problemset/problem/148/A
 - [ ] https://codeforces.com/problemset/problem/732/A
 - [ ] https://codeforces.com/problemset/problem/1900/A
 - [ ] https://codeforces.com/problemset/problem/1343/B

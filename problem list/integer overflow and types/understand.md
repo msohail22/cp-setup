@@ -1,11 +1,11 @@
 ## Easy
 
 - [ ] https://cses.fi/problemset/task/1068
-- [ ] https://codeforces.com/problemset/problem/148/A
+- [x] https://codeforces.com/problemset/problem/148/A
 - [ ] https://codeforces.com/problemset/problem/151/A
 - [ ] https://codeforces.com/problemset/problem/200/B
-- [ ] https://codeforces.com/problemset/problem/486/A
-- [ ] https://codeforces.com/problemset/problem/546/A
+- [x] https://codeforces.com/problemset/problem/486/A
+- [x] https://codeforces.com/problemset/problem/546/A
 - [ ] https://codeforces.com/problemset/problem/723/A
 - [ ] https://codeforces.com/problemset/problem/1352/A
 - [ ] https://cses.fi/problemset/task/1083
@@ -26,7 +26,7 @@
 - [ ] https://leetcode.com/problems/add-strings/
 - [ ] https://leetcode.com/problems/add-to-array-form-of-integer/
 - [ ] https://leetcode.com/problems/n-th-tribonacci-number/
-- [ ] https://codeforces.com/problemset/problem/69/A
+- [x] https://codeforces.com/problemset/problem/69/A
 - [ ] https://codeforces.com/problemset/problem/270/A
 - [ ] https://codeforces.com/problemset/problem/1850/E
 - [ ] https://codeforces.com/problemset/problem/492/B

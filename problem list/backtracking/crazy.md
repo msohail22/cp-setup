@@ -3,20 +3,20 @@
 - [ ] https://leetcode.com/problems/binary-watch/
 - [ ] https://leetcode.com/problems/binary-tree-paths/
 - [ ] https://leetcode.com/problems/sum-of-all-subset-xor-totals/
-- [ ] https://codeforces.com/problemset/problem/4/A
-- [ ] https://codeforces.com/problemset/problem/231/A
-- [ ] https://codeforces.com/problemset/problem/236/A
-- [ ] https://codeforces.com/problemset/problem/546/A
-- [ ] https://codeforces.com/problemset/problem/271/A
+- [x] https://codeforces.com/problemset/problem/4/A
+- [x] https://codeforces.com/problemset/problem/231/A
+- [x] https://codeforces.com/problemset/problem/236/A
+- [x] https://codeforces.com/problemset/problem/546/A
+- [x] https://codeforces.com/problemset/problem/271/A
 - [ ] https://codeforces.com/problemset/problem/268/A
 - [ ] https://codeforces.com/problemset/problem/1703/A
-- [ ] https://codeforces.com/problemset/problem/155/A
+- [x] https://codeforces.com/problemset/problem/155/A
 - [ ] https://codeforces.com/problemset/problem/750/A
 - [ ] https://codeforces.com/problemset/problem/1903/A
 - [ ] https://codeforces.com/problemset/problem/732/A
 - [ ] https://codeforces.com/problemset/problem/1512/A
-- [ ] https://codeforces.com/problemset/problem/2009/A
-- [ ] https://codeforces.com/problemset/problem/1873/A
+- [x] https://codeforces.com/problemset/problem/2009/A
+- [x] https://codeforces.com/problemset/problem/1873/A
 - [ ] https://codeforces.com/problemset/problem/80/A
 - [ ] https://codeforces.com/problemset/problem/1881/A
 - [ ] https://codeforces.com/problemset/problem/1873/B
@@ -27,8 +27,8 @@
 - [ ] https://codeforces.com/problemset/problem/1535/A
 - [ ] https://codeforces.com/problemset/problem/1985/B
 - [ ] https://codeforces.com/problemset/problem/2065/A
-- [ ] https://codeforces.com/problemset/problem/2009/B
-- [ ] https://codeforces.com/problemset/problem/2126/A
+- [x] https://codeforces.com/problemset/problem/2009/B
+- [x] https://codeforces.com/problemset/problem/2126/A
 - [ ] https://codeforces.com/problemset/problem/1766/A
 - [ ] https://codeforces.com/problemset/problem/1915/B
 - [ ] https://codeforces.com/problemset/problem/2148/A

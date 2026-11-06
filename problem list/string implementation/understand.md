@@ -5,13 +5,13 @@
 - [ ] https://leetcode.com/problems/to-lower-case/
 - [ ] https://leetcode.com/problems/longest-common-prefix/
 - [ ] https://leetcode.com/problems/roman-to-integer/
-- [ ] https://codeforces.com/problemset/problem/112/A
-- [ ] https://codeforces.com/problemset/problem/236/A
-- [ ] https://codeforces.com/problemset/problem/339/A
-- [ ] https://codeforces.com/problemset/problem/281/A
-- [ ] https://codeforces.com/problemset/problem/59/A
-- [ ] https://codeforces.com/problemset/problem/734/A
-- [ ] https://codeforces.com/problemset/problem/41/A
+- [x] https://codeforces.com/problemset/problem/112/A
+- [x] https://codeforces.com/problemset/problem/236/A
+- [x] https://codeforces.com/problemset/problem/339/A
+- [x] https://codeforces.com/problemset/problem/281/A
+- [x] https://codeforces.com/problemset/problem/59/A
+- [x] https://codeforces.com/problemset/problem/734/A
+- [x] https://codeforces.com/problemset/problem/41/A
 - [ ] https://codeforces.com/problemset/problem/520/A
 
 ## Medium
