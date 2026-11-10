@@ -13,3 +13,7 @@ yo
 # Compiled CP solutions (no extension, same name as the .cpp)
 A. *
 !A. *.cpp
+
+# Scratch input/output for the <leader>rr runner
+/input.txt
+/output.txt
