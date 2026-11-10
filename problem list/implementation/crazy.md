@@ -1,13 +1,13 @@
 ## Easy
 
-- [ ] https://open.kattis.com/problems/tilhamingju
-- [ ] https://open.kattis.com/problems/classphoto
-- [ ] https://open.kattis.com/problems/aleidibio
-- [ ] https://open.kattis.com/problems/flatbokuveisla
-- [ ] https://open.kattis.com/problems/margfoldun
-- [ ] https://open.kattis.com/problems/fjoldibokstafa
-- [ ] https://open.kattis.com/problems/kikiboba
-- [ ] https://open.kattis.com/problems/bergmal
+- [x] https://open.kattis.com/problems/tilhamingju
+- [x] https://open.kattis.com/problems/classphoto
+- [x] https://open.kattis.com/problems/aleidibio
+- [x] https://open.kattis.com/problems/flatbokuveisla
+- [x] https://open.kattis.com/problems/margfoldun
+- [x] https://open.kattis.com/problems/fjoldibokstafa
+- [x] https://open.kattis.com/problems/kikiboba
+- [x] https://open.kattis.com/problems/bergmal
 - [ ] https://open.kattis.com/problems/bestagjofin
 - [ ] https://open.kattis.com/problems/triangelfabriken
 - [ ] https://open.kattis.com/problems/flatterland
