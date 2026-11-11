@@ -2,7 +2,7 @@
 
 - [ ] https://cses.fi/problemset/task/1068
 - [x] https://codeforces.com/problemset/problem/148/A
-- [ ] https://codeforces.com/problemset/problem/151/A
+- [x] https://codeforces.com/problemset/problem/151/A
 - [ ] https://codeforces.com/problemset/problem/200/B
 - [x] https://codeforces.com/problemset/problem/486/A
 - [x] https://codeforces.com/problemset/problem/546/A
