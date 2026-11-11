@@ -17,3 +17,6 @@ A. *
 # Scratch input/output for the <leader>rr runner
 /input.txt
 /output.txt
+
+# The scratch solution at the root. template.cpp is the tracked starting point.
+/yo.cpp
