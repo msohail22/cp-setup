@@ -14,7 +14,7 @@ yo
 A. *
 !A. *.cpp
 
-# Scratch input/output for the <leader>rr runner
+# Scratch input/output at the root
 /input.txt
 /output.txt
 
